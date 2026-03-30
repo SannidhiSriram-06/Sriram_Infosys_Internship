@@ -1,0 +1,5 @@
+Data Samples for Aadhar Classification - https://drive.google.com/drive/folders/1NcbOx4qqpG9Xp9jLTT7rQdXUbiNt9Kkz?usp=sharing
+
+Data Samples for Pan card Classification - https://drive.google.com/drive/folders/1XUeYAv7_-CnGtylipEghYai4dRni5J_D?usp=drive_link
+
+Data Samples for Passport Classification - https://drive.google.com/drive/folders/1AAhTLif8mx8-2T7fsFNm-wpIU9A3KagG?usp=drive_link

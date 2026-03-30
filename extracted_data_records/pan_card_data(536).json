@@ -1,0 +1,3218 @@
+[
+  {
+    "Name": "RAJ KUMAR",
+    "Parent's Name": "SODAN SINGH",
+    "Date of Birth": "18/07/1995",
+    "PAN Number": "DNIPK0430E"
+  },
+  {
+    "Name": "MOUMITA PAYRA DAS",
+    "Parent's Name": "SWAPAN PAYRA",
+    "Date of Birth": "27/07/1991",
+    "PAN Number": "DQVPP6174C"
+  },
+  {
+    "Name": "SANJAY GHOSH",
+    "Parent's Name": "BIPAD TARAN GHOSH",
+    "Date of Birth": "02/01/1974",
+    "PAN Number": "BXKPG6694L"
+  },
+  {
+    "Name": "RAKESH KUMAR RATHORE",
+    "Parent's Name": "GAJODHAR LAL",
+    "Date of Birth": "01/01/1984",
+    "PAN Number": "EDRPR6212M"
+  },
+  {
+    "Name": "MAHESH SADHU",
+    "Parent's Name": "PRADIP SADHU",
+    "Date of Birth": "03/01/1997",
+    "PAN Number": "MLLPS3496J"
+  },
+  {
+    "Name": "GARLAPATI SAI KIRAN REDDY",
+    "Parent's Name": "VENKAT REDDY GARLAPATI",
+    "Date of Birth": "28/11/1996",
+    "PAN Number": "CEFPG4334E"
+  },
+  {
+    "Name": "SOURAV MAITY",
+    "Parent's Name": "CHIRANJIB MAITI",
+    "Date of Birth": "10/03/1994",
+    "PAN Number": "EXMPM7881L"
+  },
+  {
+    "Name": "NIRANJAN ADAK",
+    "Parent's Name": "NEMAI ADAK",
+    "Date of Birth": "14/11/1968",
+    "PAN Number": "BOEPA1560C"
+  },
+  {
+    "Name": "ANURAG AGARWAL",
+    "Parent's Name": "ANJANI KUMAR AGARWAL",
+    "Date of Birth": "18/01/1995",
+    "PAN Number": "BWNPA9753L"
+  },
+  {
+    "Name": "SANJAY KUMAR PRAJAPATI",
+    "Parent's Name": "DUKHIYA PRASHAD PRAJAPATI",
+    "Date of Birth": "02/06/1990",
+    "PAN Number": "BJQPP5524G"
+  },
+  {
+    "Name": "SOUMYARANJAN BEHERA",
+    "Parent's Name": "HAREKRUSHNA BEHERA",
+    "Date of Birth": "01/09/2000",
+    "PAN Number": "EXTPB3883E"
+  },
+  {
+    "Name": "MALAMSHA SYED",
+    "Parent's Name": "SYED MUKTHIYAR",
+    "Date of Birth": "04/06/1991",
+    "PAN Number": "GHVPS9631B"
+  },
+  {
+    "Name": "AMBIKA TRIPATHI",
+    "Parent's Name": "RAJ BASANT TRIPATHI",
+    "Date of Birth": "23/08/1998",
+    "PAN Number": "BBEPT7703H"
+  },
+  {
+    "Name": "TAHZEEN",
+    "Parent's Name": "MOHD UMAR",
+    "Date of Birth": "05/06/1997",
+    "PAN Number": "BDDPT7762H"
+  },
+  {
+    "Name": "MD HRIDAY SK",
+    "Parent's Name": "BABU SK",
+    "Date of Birth": "02/04/1998",
+    "PAN Number": "KMMPS7561E"
+  },
+  {
+    "Name": "SHRABANI ACHARYA",
+    "Parent's Name": "SWAPAN KUMAR ACHARYA",
+    "Date of Birth": "07/08/1993",
+    "PAN Number": "BHYPA3669R"
+  },
+  {
+    "Name": "RAJIB KUMAR DAS",
+    "Parent's Name": "PABITRA KUMAR DAS",
+    "Date of Birth": "17/05/1998",
+    "PAN Number": "CHQPD1235D"
+  },
+  {
+    "Name": "CHAURASIA RAJ",
+    "Parent's Name": "CHAURASIA RAMNARESH",
+    "Date of Birth": "01/01/1997",
+    "PAN Number": "CJBPR7604F"
+  },
+  {
+    "Name": "JUNED KHAN",
+    "Parent's Name": "MOHD ASLAM",
+    "Date of Birth": "26/03/1993",
+    "PAN Number": "EPFPK4108M"
+  },
+  {
+    "Name": "KRISHNAPADA MONDAL",
+    "Parent's Name": "PULIN BIHARI MONDAL",
+    "Date of Birth": "12/10/1979",
+    "PAN Number": "CLJPM7949E"
+  },
+  {
+    "Name": "MALA SARKAR",
+    "Parent's Name": "KARTIK MONDAL",
+    "Date of Birth": "20/04/1985",
+    "PAN Number": "HNBPS1164J"
+  },
+  {
+    "Name": "GHANSHYAM YADAV",
+    "Parent's Name": "MALIRAM YADAV",
+    "Date of Birth": "07/11/2000",
+    "PAN Number": "BBDPY4407L"
+  },
+  {
+    "Name": "SUBHASH SINGH",
+    "Parent's Name": "AMRIK SINGH",
+    "Date of Birth": "31/04/1973",
+    "PAN Number": "CKJPS9180"
+  },
+  {
+    "Name": "RAJKUMAR SARKAR",
+    "Parent's Name": "SUBHASH SARKAR",
+    "Date of Birth": "13/12/1996",
+    "PAN Number": "HPYPS0279K"
+  },
+  {
+    "Name": "KUMAR GOURAB",
+    "Parent's Name": "HAREKRUSHNA SAHU",
+    "Date of Birth": "01/07/1990",
+    "PAN Number": "BFKPG2007P"
+  },
+  {
+    "Name": "SOURAV PRADHAN",
+    "Parent's Name": "TAPAS PRADHAN",
+    "Date of Birth": "29/01/1997",
+    "PAN Number": "ELIPP8286A"
+  },
+  {
+    "Name": "PRANAV CHATURVEDI",
+    "Parent's Name": "MUKUL CHATURVEDI",
+    "Date of Birth": "11/02/1982",
+    "PAN Number": "AEZPC0639Q"
+  },
+  {
+    "Name": "MAHARAJAN",
+    "Parent's Name": "MOHAN",
+    "Date of Birth": "06/04/1995",
+    "PAN Number": "CWIPM1326F"
+  },
+  {
+    "Name": "MAKARAND PRAKASH GARATE",
+    "Parent's Name": "PRAKASH BHIVA GARATE",
+    "Date of Birth": "28/03/1999",
+    "PAN Number": "CHLPG7477F"
+  },
+  {
+    "Name": "PROSENJIT BASAK",
+    "Parent's Name": "HARENDRA NATH BASAK",
+    "Date of Birth": "11/02/1984",
+    "PAN Number": "AMHPB2540B"
+  },
+  {
+    "Name": "DEBABRATA BERA",
+    "Parent's Name": "ADWAITA BERA",
+    "Date of Birth": "05/01/1992",
+    "PAN Number": "BYJPB3602F"
+  },
+  {
+    "Name": "PRASHANT ASHOKAPPA KAPASE",
+    "Parent's Name": "ASHOKAPPA TRAMBAKAPPA KAPASE",
+    "Date of Birth": "21/08/1990",
+    "PAN Number": "CETPK8557F"
+  },
+  {
+    "Name": "PREM LATA SHARMA",
+    "Parent's Name": "DAULAT RAM SHARMA",
+    "Date of Birth": "05/01/1965",
+    "PAN Number": "DIPPS5635R"
+  },
+  {
+    "Name": "OMVIR SINGH",
+    "Parent's Name": "PREM SHANKAR",
+    "Date of Birth": "15/08/1997",
+    "PAN Number": "LWZPS1769N"
+  },
+  {
+    "Name": "GOPAL KALITA",
+    "Parent's Name": "LAKSHI KANTA KALITA",
+    "Date of Birth": "27/11/1987",
+    "PAN Number": "BKAPK3994A"
+  },
+  {
+    "Name": "MOHAMMAD USMAN",
+    "Parent's Name": "MEHMOOD HASAN",
+    "Date of Birth": "07/07/1999",
+    "PAN Number": "AMDPU7399B"
+  },
+  {
+    "Name": "RISHABH MISHRA",
+    "Parent's Name": "RAMESH KUMAR MISHRA",
+    "Date of Birth": "29/08/1999",
+    "PAN Number": "EIPPM8493E"
+  },
+  {
+    "Name": "GADEKAR SURAJ KAILAS",
+    "Parent's Name": "KAILAS GADEKAR",
+    "Date of Birth": "05/04/1997",
+    "PAN Number": "BRGPG1628A"
+  },
+  {
+    "Name": "MENAKA PAUL",
+    "Parent's Name": "SAMBHU NATH PANDIT",
+    "Date of Birth": "15/08/1980",
+    "PAN Number": "FGOPP7839H"
+  },
+  {
+    "Name": "GOUTAM SAHOO",
+    "Parent's Name": "BALARAM SAHOO",
+    "Date of Birth": "11/03/1973",
+    "PAN Number": "AXUPS6515P"
+  },
+  {
+    "Name": "PRIYANKAR PRAMANIK",
+    "Parent's Name": "GOPAL PRAMANIK",
+    "Date of Birth": "08/02/1998",
+    "PAN Number": "FJDPP2925J"
+  },
+  {
+    "Name": "BALAKRISHNA",
+    "Parent's Name": "NITHYANANTH PARAMESHWAR",
+    "Date of Birth": "04/06/1989",
+    "PAN Number": "BITPB0391P"
+  },
+  {
+    "Name": "JYOTISH BASAK",
+    "Parent's Name": "JALADHAR BASAK",
+    "Date of Birth": "10/08/1985",
+    "PAN Number": "BZAPB4055Q"
+  },
+  {
+    "Name": "RAJU RABI DAS",
+    "Parent's Name": "PIYARI RABI DAD",
+    "Date of Birth": "12/07/1977",
+    "PAN Number": "BTUPD3907K"
+  },
+  {
+    "Name": "SANTOSH BHASKAR DEOKAR",
+    "Parent's Name": "BHASKAR SHRIHARI DEOKAR",
+    "Date of Birth": "04/09/1983",
+    "PAN Number": "BKSPD0003P"
+  },
+  {
+    "Name": "VIKASH GOALA",
+    "Parent's Name": "BHARAT GOALA",
+    "Date of Birth": "15/04/1998",
+    "PAN Number": "CTKPG8992G"
+  },
+  {
+    "Name": "SULEESH SUGATHAN",
+    "Parent's Name": "SUGATHAN",
+    "Date of Birth": "07/05/1988",
+    "PAN Number": "BNIPS5862E"
+  },
+  {
+    "Name": "SELHUVO LOHE",
+    "Parent's Name": "CHNETI LOHE",
+    "Date of Birth": "10/09/2001",
+    "PAN Number": "BFAPL9762A"
+  },
+  {
+    "Name": "SIBAPRASAD BARIK",
+    "Parent's Name": "ASHOK BARIK",
+    "Date of Birth": "16/03/2000",
+    "PAN Number": "EHBPB6253A"
+  },
+  {
+    "Name": "BHOLANATH",
+    "Parent's Name": "KAILPASHANKAR",
+    "Date of Birth": "01/01/1976",
+    "PAN Number": "CSNPB6470L"
+  },
+  {
+    "Name": "ANTRAKSHA R JAISWAL",
+    "Parent's Name": "R L JAISWAL",
+    "Date of Birth": "01/03/1990",
+    "PAN Number": "AJQPJ1348H"
+  },
+  {
+    "Name": "SK SAJED ALI",
+    "Parent's Name": "SEKH SAFAR ALI",
+    "Date of Birth": "10/03/1996",
+    "PAN Number": "ELEPS1747H"
+  },
+  {
+    "Name": "KOHAK PRAVEEN GOWARDHAN",
+    "Parent's Name": "GOWARDHAN JAYWANT KOHAK",
+    "Date of Birth": "18/09/1991",
+    "PAN Number": "BEKPK7277J"
+  },
+  {
+    "Name": "SUDIP CHAUDHARY THARU",
+    "Parent's Name": "DHANIRAM CHAUDHARY",
+    "Date of Birth": "11/04/1993",
+    "PAN Number": "ASIPT7075L"
+  },
+  {
+    "Name": "GIRIDHARI SINGHA",
+    "Parent's Name": "CHITTA PRASAD SINGHA",
+    "Date of Birth": "24/02/1998",
+    "PAN Number": "JLKPS4397Q"
+  },
+  {
+    "Name": "SUBHASH JANA",
+    "Parent's Name": "PANCHANAN JANA",
+    "Date of Birth": "13/05/1971",
+    "PAN Number": "BTJPJ5478A"
+  },
+  {
+    "Name": "ANAND",
+    "Parent's Name": "ASHOK KUMAR",
+    "Date of Birth": "01/01/1988",
+    "PAN Number": "AVVPA5339G"
+  },
+  {
+    "Name": "SIDDHESWAR OJHA",
+    "Parent's Name": "SWAPAN OJHA",
+    "Date of Birth": "02/09/1998",
+    "PAN Number": "ADCPO2555R"
+  },
+  {
+    "Name": "ABUL KASEM SEKH",
+    "Parent's Name": "AZIJUL SEKH",
+    "Date of Birth": "01/01/1976",
+    "PAN Number": "LVRPS5161D"
+  },
+  {
+    "Name": "SIDDHARTHA SHARMA",
+    "Parent's Name": "RAJENDRA SHARMA",
+    "Date of Birth": "09/04/1984",
+    "PAN Number": "BZXPS4795K"
+  },
+  {
+    "Name": "NILESH M RAMANUJ",
+    "Parent's Name": "M K RAMANUJ",
+    "Date of Birth": "13/08/1984",
+    "PAN Number": "AOHPR8959N"
+  },
+  {
+    "Name": "MANDADAPU SWATHI",
+    "Parent's Name": "APPARAO MANDADAPU",
+    "Date of Birth": "28/05/1988",
+    "PAN Number": "BCQPM1649K"
+  },
+  {
+    "Name": "BUDH RAM",
+    "Parent's Name": "MOHAR SINGH",
+    "Date of Birth": "01/08/1990",
+    "PAN Number": "CEQPR2111R"
+  },
+  {
+    "Name": "PANKAJ RAMSINGH BISHT",
+    "Parent's Name": "RAMSINGH BAHADURSINGH BISHT",
+    "Date of Birth": "04/01/1994",
+    "PAN Number": "BRSPB5477N"
+  },
+  {
+    "Name": "SEKH HASIBUR RAHAMAN",
+    "Parent's Name": "SEKH ASGAR ALI",
+    "Date of Birth": "01/01/1967",
+    "PAN Number": "BOUPR6034L"
+  },
+  {
+    "Name": "SWAIN VIKAS PRAKASH",
+    "Parent's Name": "PRAKASH DHANI SWAIN",
+    "Date of Birth": "17/05/1991",
+    "PAN Number": "CKFPS3816K"
+  },
+  {
+    "Name": "PRABIR BASAK",
+    "Parent's Name": "BADAL BASAK",
+    "Date of Birth": "14/09/1987",
+    "PAN Number": "CCNPB4369J"
+  },
+  {
+    "Name": "PRATEEK BANSAL",
+    "Parent's Name": "KESHAV CHAND BANSAL",
+    "Date of Birth": "28/10/1993",
+    "PAN Number": "BJMPB9059E"
+  },
+  {
+    "Name": "ABINASH BARIK",
+    "Parent's Name": "AKSHAYA KUMAR BARIK",
+    "Date of Birth": "07/10/1998",
+    "PAN Number": "EXTPB3865G"
+  },
+  {
+    "Name": "MANOJ KUMAR",
+    "Parent's Name": "MAHA SINGH",
+    "Date of Birth": "21/10/1988",
+    "PAN Number": "BMCPM7422D"
+  },
+  {
+    "Name": "NILIMA RANI SETHI",
+    "Parent's Name": "LAXMAN KUMAR SETHI",
+    "Date of Birth": "18/06/1980",
+    "PAN Number": "FXYPS6228C"
+  },
+  {
+    "Name": "ABDUL AZIZ",
+    "Parent's Name": "KHELU SHEIKH",
+    "Date of Birth": "01/01/1947",
+    "PAN Number": "CPHPA5014A"
+  },
+  {
+    "Name": "PARDHASARADHI MATHI",
+    "Parent's Name": "HANUMANTHA RAO MATHI",
+    "Date of Birth": "16/06/1986",
+    "PAN Number": "ARTPM1169N"
+  },
+  {
+    "Name": "PRITAM MOHAN MISHRA",
+    "Parent's Name": "KALPATARU MISHRA",
+    "Date of Birth": "20/06/1996",
+    "PAN Number": "DWPPM2873B"
+  },
+  {
+    "Name": "BUMBA DAS",
+    "Parent's Name": "NITYAGOPAL DAS",
+    "Date of Birth": "01/06/1999",
+    "PAN Number": "FPIPD5849N"
+  },
+  {
+    "Name": "SHIBRAM GHOSH",
+    "Parent's Name": "RAMENDRA GHOSH",
+    "Date of Birth": "12/05/1995",
+    "PAN Number": "BWFPG9876G"
+  },
+  {
+    "Name": "SUSANTA BASAK",
+    "Parent's Name": "SUBHAS CHANDRA BASAK",
+    "Date of Birth": "22/01/1991",
+    "PAN Number": "BJAPB8446D"
+  },
+  {
+    "Name": "BIKASH SHARMA",
+    "Parent's Name": "BIRESH SHARMA",
+    "Date of Birth": "03/03/1996",
+    "PAN Number": "KTWPS9290H"
+  },
+  {
+    "Name": "SAMRESH BASAK",
+    "Parent's Name": "MANINDRA BASAK",
+    "Date of Birth": "01/01/1967",
+    "PAN Number": "CMBPB7202C"
+  },
+  {
+    "Name": "GAURAV SUNIL SANSARE",
+    "Parent's Name": "SUNIL SURESH SANSARE",
+    "Date of Birth": "04/09/1990",
+    "PAN Number": "CIAPS1444N"
+  },
+  {
+    "Name": "SIMRAN",
+    "Parent's Name": "TARSEM BADYAL",
+    "Date of Birth": "02/03/2001",
+    "PAN Number": "RUVPS3165N"
+  },
+  {
+    "Name": "SURYA NARAYAN PATRA",
+    "Parent's Name": "PRANABANDHU PATRA",
+    "Date of Birth": "23/02/2000",
+    "PAN Number": "ENMPP9134F"
+  },
+  {
+    "Name": "PRADIP TUDU",
+    "Parent's Name": "RAJEN TUDU",
+    "Date of Birth": "07/08/1999",
+    "PAN Number": "BLUPT4816R"
+  },
+  {
+    "Name": "PABITRA MAITY",
+    "Parent's Name": "PINTU MAITY",
+    "Date of Birth": "28/06/1999",
+    "PAN Number": "FJSPM5850A"
+  },
+  {
+    "Name": "RISHAD N M",
+    "Parent's Name": "ABDUL MAJEED NEDUMKANDATHIL MANCHARAKANDY",
+    "Date of Birth": "13/02/1988",
+    "PAN Number": "AOYPM0314F"
+  },
+  {
+    "Name": "ANMOL SHARMA",
+    "Parent's Name": "PANKAJ SHARMA",
+    "Date of Birth": "29/10/1999",
+    "PAN Number": "MCBPS2498R"
+  },
+  {
+    "Name": "DURGESH KHUSHALCHAND GALA",
+    "Parent's Name": "KHUSHALCHAND LAKHAMSHI GALA",
+    "Date of Birth": "24/03/1974",
+    "PAN Number": "AAWPG9790K"
+  },
+  {
+    "Name": "CHAMPA RUIDAS",
+    "Parent's Name": "ARANDHAN RUIDAS",
+    "Date of Birth": "19/08/1980",
+    "PAN Number": "CVKPR4095M"
+  },
+  {
+    "Name": "RINA MALLA",
+    "Parent's Name": "MATHUR GAYEN",
+    "Date of Birth": "10/01/1980",
+    "PAN Number": "DUIPM5772G"
+  },
+  {
+    "Name": "RAHUL KUMAR BHUIN",
+    "Parent's Name": "LALMOHAN BHUIN",
+    "Date of Birth": "09/12/2000",
+    "PAN Number": "EGZPB8637P"
+  },
+  {
+    "Name": "MANOJ TIWARI",
+    "Parent's Name": "BIHARI TIWARI",
+    "Date of Birth": "11/04/1996",
+    "PAN Number": "AZNPT0493N"
+  },
+  {
+    "Name": "MAHENDRA KUMAR JHA",
+    "Parent's Name": "RAM CHARAN",
+    "Date of Birth": "10/07/1972",
+    "PAN Number": "AWGPJ5665A"
+  },
+  {
+    "Name": "SADHANA SINHA",
+    "Parent's Name": "HARENDRANATH SAR",
+    "Date of Birth": "15/08/1947",
+    "PAN Number": "BFAPS8256Q"
+  },
+  {
+    "Name": "UMARANI PATRA",
+    "Parent's Name": "AMALENDU PATRA",
+    "Date of Birth": "03/03/1986",
+    "PAN Number": "DNDPP6215F"
+  },
+  {
+    "Name": "BIMAN SEN",
+    "Parent's Name": "BIDYUT SEN",
+    "Date of Birth": "18/05/2001",
+    "PAN Number": "LWIPS9572E"
+  },
+  {
+    "Name": "DIPANWITA SAHOO",
+    "Parent's Name": "SAHADEB SAHOO",
+    "Date of Birth": "18/11/1994",
+    "PAN Number": "HPSPS9643H"
+  },
+  {
+    "Name": "SASADHAR MAITY",
+    "Parent's Name": "RAMPRASAD MAITY",
+    "Date of Birth": "10/04/1960",
+    "PAN Number": "BLYPM6641P"
+  },
+  {
+    "Name": "VINO C",
+    "Parent's Name": "CHRISTU DHAS",
+    "Date of Birth": "01/12/1989",
+    "PAN Number": "AWMPV0342C"
+  },
+  {
+    "Name": "SANJEEV KUMAR",
+    "Parent's Name": "BARU RAM",
+    "Date of Birth": "06/06/1973",
+    "PAN Number": "DYFPK6749J"
+  },
+  {
+    "Name": "ASHWANI",
+    "Parent's Name": "BRAJ BIHARI OJHA",
+    "Date of Birth": "13/09/1990",
+    "PAN Number": "BPGPA4648A"
+  },
+  {
+    "Name": "VINOD LAKRA",
+    "Parent's Name": "KUSHAL LAKRA",
+    "Date of Birth": "05/01/1993",
+    "PAN Number": "ALIPL0109N"
+  },
+  {
+    "Name": "DEBARCHAN PRADHAN",
+    "Parent's Name": "ASWINI PRADHAN",
+    "Date of Birth": "13/10/2000",
+    "PAN Number": "FKMPP8018L"
+  },
+  {
+    "Name": "PINTU MAITI",
+    "Parent's Name": "SAHADEV MAITY",
+    "Date of Birth": "08/12/1969",
+    "PAN Number": "BMWPM0983P"
+  },
+  {
+    "Name": "SUBHRANSHU SEKHAR JENA",
+    "Parent's Name": "GIRIJA RAMAN JENA",
+    "Date of Birth": "10/11/1996",
+    "PAN Number": "CATPJ2392D"
+  },
+  {
+    "Name": "GADDE NAGA SESHA SAI KRISHNA",
+    "Parent's Name": "VENKATESWARA RAO GADDE",
+    "Date of Birth": "20/12/1995",
+    "PAN Number": "BRMPG7973E"
+  },
+  {
+    "Name": "ABHISHEK PATHANIA",
+    "Parent's Name": "VIJAY PATHANIA",
+    "Date of Birth": "15/10/1993",
+    "PAN Number": "DCWPP9916H"
+  },
+  {
+    "Name": "DEEPAK KUMAR",
+    "Parent's Name": "BALENDRA SINGH",
+    "Date of Birth": "10/03/1994",
+    "PAN Number": "CPVPK9197J"
+  },
+  {
+    "Name": "GARIMA",
+    "Parent's Name": "TILOK CHAND",
+    "Date of Birth": "20/08/1994",
+    "PAN Number": "BJIPG4102P"
+  },
+  {
+    "Name": "SHAIWAL RAJESH MEHTA",
+    "Parent's Name": "RAJESH MUKUND MEHTA",
+    "Date of Birth": "10/11/1997",
+    "PAN Number": "CYAPM8479B"
+  },
+  {
+    "Name": "MUNITA PAUL",
+    "Parent's Name": "MADHAI CHANDRA PAUL",
+    "Date of Birth": "01/01/1973",
+    "PAN Number": "CWFPP7853K"
+  },
+  {
+    "Name": "AMIT ANILKUMAR JOSHI",
+    "Parent's Name": "ANILKUMAR HIRALAL JOSHI",
+    "Date of Birth": "18/03/1984",
+    "PAN Number": "ALAPJ9937G"
+  },
+  {
+    "Name": "KHAJA HUSSAIN",
+    "Parent's Name": "SHAIK MOHINUDDIN",
+    "Date of Birth": "01/06/1974",
+    "PAN Number": "AEYPH4040R"
+  },
+  {
+    "Name": "SHASHANK SHEKHAR JOSHI",
+    "Parent's Name": "KRISHAN KUMAR JOSHI",
+    "Date of Birth": "01/01/1989",
+    "PAN Number": "AHZPJ0457G"
+  },
+  {
+    "Name": "DHEERENDRA S N",
+    "Parent's Name": "S N NABHIRAJAIAH",
+    "Date of Birth": "15/07/1978",
+    "PAN Number": "ALQPD2676L"
+  },
+  {
+    "Name": "KRISHNA MOHAN KUMAR",
+    "Parent's Name": "RAM AGYA PRASAD",
+    "Date of Birth": "24/01/1991",
+    "PAN Number": "CXRPK9829B"
+  },
+  {
+    "Name": "T N RAJU",
+    "Parent's Name": "TADI SAMUDRALU",
+    "Date of Birth": "15/08/1983",
+    "PAN Number": "AMOPT4587D"
+  },
+  {
+    "Name": "KRISHNA BASAK",
+    "Parent's Name": "ANANDA BASAK",
+    "Date of Birth": "04/09/1999",
+    "PAN Number": "EDEPB5565G"
+  },
+  {
+    "Name": "BALA RANI",
+    "Parent's Name": "RAM MURTI",
+    "Date of Birth": "28/12/1968",
+    "PAN Number": "DWAPR0288C"
+  },
+  {
+    "Name": "GYANESH VISHNUBHUSHAN SHUKLA",
+    "Parent's Name": "VISHNUBHUSHAN MURLIDHAR SHUKLA",
+    "Date of Birth": "10/06/1990",
+    "PAN Number": "DTPPS5591K"
+  },
+  {
+    "Name": "MOHD JUNED ALI",
+    "Parent's Name": "IKRAM ALI",
+    "Date of Birth": "10/07/1997",
+    "PAN Number": "BUSPA3470R"
+  },
+  {
+    "Name": "ANKIT KUMAR",
+    "Parent's Name": "JAGDAMBA PRASAD",
+    "Date of Birth": "09/07/1992",
+    "PAN Number": "CBTPK2059K"
+  },
+  {
+    "Name": "SHUBHAM RAMCHANDRA KSHIRSAGAR",
+    "Parent's Name": "RAMCHANDRA PANDHARINATH KSHIRSAGAR",
+    "Date of Birth": "20/12/1996",
+    "PAN Number": "DYOPK4494M"
+  },
+  {
+    "Name": "OM PARKASH",
+    "Parent's Name": "RUGGI RAM",
+    "Date of Birth": "05/08/1932",
+    "PAN Number": "AHBPP2458B"
+  },
+  {
+    "Name": "DILIP KARMAKAR",
+    "Parent's Name": "PRADIP KARMAKAR",
+    "Date of Birth": "01/01/1984",
+    "PAN Number": "BIEPK6933P"
+  },
+  {
+    "Name": "SHARAD ACHARYA",
+    "Parent's Name": "LILA DUTT ACHARYA",
+    "Date of Birth": "03/10/1982",
+    "PAN Number": "AHNPA3251D"
+  },
+  {
+    "Name": "SANTANU SHIT",
+    "Parent's Name": "ADWAITYA SHIT",
+    "Date of Birth": "20/10/1991",
+    "PAN Number": "EKVPS6045G"
+  },
+  {
+    "Name": "ASISH DASH",
+    "Parent's Name": "BIJAYA KETAN DASH",
+    "Date of Birth": "11/06/1991",
+    "PAN Number": "BFQPD1661E"
+  },
+  {
+    "Name": "RAJESH MONDAL",
+    "Parent's Name": "BINOD CHANDRA MONDAL",
+    "Date of Birth": "08/12/2001",
+    "PAN Number": "FXEPM7417R"
+  },
+  {
+    "Name": "CHAVAN ROHIT NAMDEV",
+    "Parent's Name": "NAMDEV TUKARAM CHAVAN",
+    "Date of Birth": "28/09/1994",
+    "PAN Number": "BJQPC9085D"
+  },
+  {
+    "Name": "RONIT JYOTI BORA",
+    "Parent's Name": "PRASANTA KUMAR BORA",
+    "Date of Birth": "16/07/1994",
+    "PAN Number": "CHDPB3812P"
+  },
+  {
+    "Name": "SHOVA RANI DINDA",
+    "Parent's Name": "PURNA CHANDRA PAL",
+    "Date of Birth": "01/07/1980",
+    "PAN Number": "BJTPD7885F"
+  },
+  {
+    "Name": "DHARITRI SAMANTARAY",
+    "Parent's Name": "RAJANI KANTA SAMANTARAY",
+    "Date of Birth": "25/02/1968",
+    "PAN Number": "AICPS5906R"
+  },
+  {
+    "Name": "JESMINA BEGUM",
+    "Parent's Name": "KHALILUR RAHMAN",
+    "Date of Birth": "01/01/1984",
+    "PAN Number": "DIDPB1005A"
+  },
+  {
+    "Name": "SUBAL KUMBHAKAR",
+    "Parent's Name": "NAKUL KUMBHAKAR",
+    "Date of Birth": "25/03/1978",
+    "PAN Number": "EACPK2475P"
+  },
+  {
+    "Name": "TAPAN PATRA",
+    "Parent's Name": "PATRA",
+    "Date of Birth": "18/08/1975",
+    "PAN Number": "EZLPP9624K"
+  },
+  {
+    "Name": "BABU BAG",
+    "Parent's Name": "RUPCHAND BAG",
+    "Date of Birth": "14/02/1998",
+    "PAN Number": "EJDPB1367K"
+  },
+  {
+    "Name": "DHANANJAY KUMAR YADAV",
+    "Parent's Name": "HIRENDRA YADAV",
+    "Date of Birth": "10/11/1997",
+    "PAN Number": "CMCPD7113D"
+  },
+  {
+    "Name": "MOHIT",
+    "Parent's Name": "RAJENDRA",
+    "Date of Birth": "15/12/2001",
+    "PAN Number": "FZYPM6259R"
+  },
+  {
+    "Name": "RAKESH VERMA",
+    "Parent's Name": "RAKESH VERMA",
+    "Date of Birth": "31/01/1995",
+    "PAN Number": "AZKPV9571E"
+  },
+  {
+    "Name": "NEETI MEHTA",
+    "Parent's Name": "LAXMAN SINGH MEHTA",
+    "Date of Birth": "03/07/1989",
+    "PAN Number": "BWNPM2120D"
+  },
+  {
+    "Name": "DEBAYAN KUNDU",
+    "Parent's Name": "TARIT KUMAR KUNDU",
+    "Date of Birth": "03/11/1999",
+    "PAN Number": "HLKPK0444L"
+  },
+  {
+    "Name": "RITIK SHARMA",
+    "Parent's Name": "RAJESH SHARMA",
+    "Date of Birth": "27/10/2000",
+    "PAN Number": "LBRPS5116E"
+  },
+  {
+    "Name": "MUNEER KHAN B HAJI",
+    "Parent's Name": "BALDAR KHAN MUNEER KHAN HAJI",
+    "Date of Birth": "02/03/1984",
+    "PAN Number": "AELPH2689M"
+  },
+  {
+    "Name": "RANJAN MANNA",
+    "Parent's Name": "RATAN MANNA",
+    "Date of Birth": "17/04/1999",
+    "PAN Number": "FBMPM3562B"
+  },
+  {
+    "Name": "SATYAJIT BASAK",
+    "Parent's Name": "GOBINDA BASAK",
+    "Date of Birth": "07/03/1993",
+    "PAN Number": "CJOPB7720F"
+  },
+  {
+    "Name": "SARAH SRIDEVI K",
+    "Parent's Name": "KLAUS",
+    "Date of Birth": "30/04/1986",
+    "PAN Number": "BZFPS5572Q"
+  },
+  {
+    "Name": "DEEPA HARESH PATEL",
+    "Parent's Name": "GIRISHBHAI BHATT",
+    "Date of Birth": "14/10/1970",
+    "PAN Number": "AZAPP3025F"
+  },
+  {
+    "Name": "MAYURBHAI KISHORBHAI SUTARIYA",
+    "Parent's Name": "KISHORBHAI NANJIBHAI SUTARIYA",
+    "Date of Birth": "12/07/1994",
+    "PAN Number": "EPOPS4980G"
+  },
+  {
+    "Name": "PEREIRA ROCHELLE VIONA",
+    "Parent's Name": "RONALD PEREIRA",
+    "Date of Birth": "20/05/1996",
+    "PAN Number": "DCWPP3165E"
+  },
+  {
+    "Name": "SONIA SINGH",
+    "Parent's Name": "RANDHIR SINGH",
+    "Date of Birth": "05/11/1983",
+    "PAN Number": "GJSPS7711H"
+  },
+  {
+    "Name": "SUNDARLAL SRIVASTAV",
+    "Parent's Name": "BHUPENDRA NATH SRIVASTAV",
+    "Date of Birth": "02/10/1994",
+    "PAN Number": "GMMPS7649R"
+  },
+  {
+    "Name": "JOYKRISHNA MANDAL",
+    "Parent's Name": "NANIGOPAL MANDAL",
+    "Date of Birth": "02/11/2000",
+    "PAN Number": "FOPPM8134F"
+  },
+  {
+    "Name": "ASHOK KURUP",
+    "Parent's Name": "C R MURALEEDHARAKURUP",
+    "Date of Birth": "24/04/1982",
+    "PAN Number": "AJOPA1277E"
+  },
+  {
+    "Name": "JASMIN DAS",
+    "Parent's Name": "MUKUNDA DAS",
+    "Date of Birth": "09/11/1999",
+    "PAN Number": "FYNPD3773B"
+  },
+  {
+    "Name": "PRAYDUT SARKAR",
+    "Parent's Name": "SUVANKAR SARKAR",
+    "Date of Birth": "16/10/1992",
+    "PAN Number": "GMNPS8510J"
+  },
+  {
+    "Name": "HARDEEP SINGH",
+    "Parent's Name": "AVTAR SINGH",
+    "Date of Birth": "18/05/1988",
+    "PAN Number": "GTSPS7034F"
+  },
+  {
+    "Name": "BIKASH BASAK",
+    "Parent's Name": "GOUR BASAK",
+    "Date of Birth": "26/05/1980",
+    "PAN Number": "DJRPB7140F"
+  },
+  {
+    "Name": "GOLAM AJAM",
+    "Parent's Name": "MONJUR HOSSAIN",
+    "Date of Birth": "29/08/1994",
+    "PAN Number": "BDQPA1632J"
+  },
+  {
+    "Name": "ANOWAR SARKAR",
+    "Parent's Name": "FAYJUDDIN SARKAR",
+    "Date of Birth": "03/09/1999",
+    "PAN Number": "KOLPS6909R"
+  },
+  {
+    "Name": "TARUN KUMAR GHOSH",
+    "Parent's Name": "CHRISTAPADA GHOSH",
+    "Date of Birth": "16/03/1953",
+    "PAN Number": "AHGPG1175K"
+  },
+  {
+    "Name": "KOTHAPALLY SANTHOSH KUMAR",
+    "Parent's Name": "KOTHAPALLY CHANDRA MOHAN",
+    "Date of Birth": "15/08/2000",
+    "PAN Number": "MADPS8372J"
+  },
+  {
+    "Name": "SURAJ VERMA",
+    "Parent's Name": "ASHOK VERMA",
+    "Date of Birth": "19/04/1997",
+    "PAN Number": "BHYPV9934Q"
+  },
+  {
+    "Name": "ABHIJIT MODAK",
+    "Parent's Name": "ASHOK MODAK",
+    "Date of Birth": "23/05/2000",
+    "PAN Number": "ESAPM8079M"
+  },
+  {
+    "Name": "VIRJIBHAI PREMJIBHAI CHAVDA",
+    "Parent's Name": "PREMJIBHAI KARSHANBHAI CHAVDA",
+    "Date of Birth": "15/07/1951",
+    "PAN Number": "APCPC2540L"
+  },
+  {
+    "Name": "TAPAS MODAK",
+    "Parent's Name": "BIMAL KUMAR MODAK",
+    "Date of Birth": "03/05/1984",
+    "PAN Number": "BFCPM8904B"
+  },
+  {
+    "Name": "ABHISHEK TRIPATHI",
+    "Parent's Name": "RAM KUMAR TRIPATHI",
+    "Date of Birth": "31/08/1997",
+    "PAN Number": "BWKPT1327E"
+  },
+  {
+    "Name": "AISHWARYA AMBALI",
+    "Parent's Name": "SHIVAKUMAR",
+    "Date of Birth": "13/05/1998",
+    "PAN Number": "CUFPA7610B"
+  },
+  {
+    "Name": "BISWAJIT AJAY DHALI",
+    "Parent's Name": "AJAY NIRODH DHALI",
+    "Date of Birth": "21/06/1996",
+    "PAN Number": "CJXPD1911R"
+  },
+  {
+    "Name": "RACHERLA ABHISHEK",
+    "Parent's Name": "BHASKAR RACHERLA",
+    "Date of Birth": "21/07/1991",
+    "PAN Number": "BPYPR8070K"
+  },
+  {
+    "Name": "SRINIVASAN C K",
+    "Parent's Name": "MADAPPURAKKAL KRISHNAN",
+    "Date of Birth": "30/11/1964",
+    "PAN Number": "AFAPS5015E"
+  },
+  {
+    "Name": "SUNIL KUMAR",
+    "Parent's Name": "ATTAR SINGH YADAV",
+    "Date of Birth": "12/10/1982",
+    "PAN Number": "ARCPK5759P"
+  },
+  {
+    "Name": "CHANCHUSHREE DINDA",
+    "Parent's Name": "PITHIWISHREE DINDA",
+    "Date of Birth": "10/01/1994",
+    "PAN Number": "BYVPD1352C"
+  },
+  {
+    "Name": "PABITRA BERA",
+    "Parent's Name": "GORACHAND BERA",
+    "Date of Birth": "11/10/1996",
+    "PAN Number": "DVAPB8000B"
+  },
+  {
+    "Name": "DAYAMAY BHANDARI",
+    "Parent's Name": "SUDHIR BHANDARI",
+    "Date of Birth": "25/10/1968",
+    "PAN Number": "COXPB0240N"
+  },
+  {
+    "Name": "TEENA GARG",
+    "Parent's Name": "CHANDER KANT GARG",
+    "Date of Birth": "23/03/1997",
+    "PAN Number": "BRKPG5888A"
+  },
+  {
+    "Name": "R NIVAS",
+    "Parent's Name": "RAVI",
+    "Date of Birth": "02/01/1992",
+    "PAN Number": "AKPPN9666C"
+  },
+  {
+    "Name": "SARASWATI KAMILA",
+    "Parent's Name": "RABI RANA",
+    "Date of Birth": "19/11/1986",
+    "PAN Number": "EJEPK0186A"
+  },
+  {
+    "Name": "SAMARENDU DINDA",
+    "Parent's Name": "MANI SHANKAR DINDA",
+    "Date of Birth": "03/05/1999",
+    "PAN Number": "ESYPD9602P"
+  },
+  {
+    "Name": "PRASUN SAHA",
+    "Parent's Name": "PRABIR SAHA",
+    "Date of Birth": "17/02/2000",
+    "PAN Number": "JVCPS2715G"
+  },
+  {
+    "Name": "DHWANIBEN YOGESHKUMAR PATEL",
+    "Parent's Name": "YOGESHKUMAR HASMANBHAI PATEL",
+    "Date of Birth": "03/09/1993",
+    "PAN Number": "MKLPP4248"
+  },
+  {
+    "Name": "KANDARP SHARMA",
+    "Parent's Name": "INDU SHEKHAR SHARMA",
+    "Date of Birth": "29/09/1976",
+    "PAN Number": "BILPS6272E"
+  },
+  {
+    "Name": "SONI CHIRAG VIJAYKUMAR",
+    "Parent's Name": "VIJAYKUMAR MOHANLAL SONI",
+    "Date of Birth": "31/07/1991",
+    "PAN Number": "DBCPS1314F"
+  },
+  {
+    "Name": "NADGIRI ROOPA RAJSHEKHAR",
+    "Parent's Name": "RAJSHEKHAR CHANDRASHEKHAR NADGIRI",
+    "Date of Birth": "17/12/1989",
+    "PAN Number": "ANJPN9630K"
+  },
+  {
+    "Name": "ARATI NAYAK",
+    "Parent's Name": "RAMCHANDRA NAYAK",
+    "Date of Birth": "12/09/1980",
+    "PAN Number": "BZPPN3184D"
+  },
+  {
+    "Name": "PRADIP KUMAR SINGH",
+    "Parent's Name": "RAMDRASHAN SINGH",
+    "Date of Birth": "15/04/1987",
+    "PAN Number": "CPTPS3853K"
+  },
+  {
+    "Name": "KUNCHANAPALLY SHIVA SAI",
+    "Parent's Name": "CHALAPATHI RAO KUNCHANAPALLY",
+    "Date of Birth": "03/05/2001",
+    "PAN Number": "JNGPK8881R"
+  },
+  {
+    "Name": "ASHISH SHYAM SHINDE",
+    "Parent's Name": "SHYAM SHRIPAT SHINDE",
+    "Date of Birth": "20/04/1998",
+    "PAN Number": "GXJPS0903L"
+  },
+  {
+    "Name": "NINAD JAYPRAKASH RAJGOR",
+    "Parent's Name": "JAYPRAKASH VALJI RAJGOR",
+    "Date of Birth": "30/12/1994",
+    "PAN Number": "BQVPR9619G"
+  },
+  {
+    "Name": "RAHUL SINGH PARIHAR",
+    "Parent's Name": "RUDRAPAL SINGH PARIHAR",
+    "Date of Birth": "17/07/1999",
+    "PAN Number": "FDJPP4049B"
+  },
+  {
+    "Name": "KRUSHNA DAS",
+    "Parent's Name": "DHANANJAY DAS",
+    "Date of Birth": "07/08/1981",
+    "PAN Number": "DBEPD7334C"
+  },
+  {
+    "Name": "RAKTIM PEGU",
+    "Parent's Name": "RAMTOKI PEGU",
+    "Date of Birth": "01/06/1998",
+    "PAN Number": "DFDPP6397N"
+  },
+  {
+    "Name": "ANKITA ASHOK GUJRATHI",
+    "Parent's Name": "ASHOK SUDHAKAR GUJRATHI",
+    "Date of Birth": "17/05/1990",
+    "PAN Number": "AZGPG7062F"
+  },
+  {
+    "Name": "SANIDUL ISLAM",
+    "Parent's Name": "ASRAB ALI",
+    "Date of Birth": "03/02/1996",
+    "PAN Number": "AEFPI5676D"
+  },
+  {
+    "Name": "PRADEEP REDDY SURAM",
+    "Parent's Name": "RAMCHANDRA REDDY SURAM",
+    "Date of Birth": "09/06/1986",
+    "PAN Number": "COYPS0597N"
+  },
+  {
+    "Name": "BIKI DAS",
+    "Parent's Name": "BARUN KUMAR DAS",
+    "Date of Birth": "29/11/1992",
+    "PAN Number": "BOTPD1877C"
+  },
+  {
+    "Name": "ANIL KUMAR JERRIPOTHU",
+    "Parent's Name": "ANTHONY JERRIPOTHU",
+    "Date of Birth": "28/08/1983",
+    "PAN Number": "AIPPJ2459K"
+  },
+  {
+    "Name": "R KISHORE KUMAR",
+    "Parent's Name": "RAVISHANKAR",
+    "Date of Birth": "02/11/1985",
+    "PAN Number": "BMXPK2934D"
+  },
+  {
+    "Name": "LAKSHMI RANI MAJHI",
+    "Parent's Name": "BAIKUNTHA KALA",
+    "Date of Birth": "01/01/1981",
+    "PAN Number": "CCHPM0439G"
+  },
+  {
+    "Name": "ISHWAR ARJUN KANSE",
+    "Parent's Name": "ARJUN KRISHNAJI KANSE",
+    "Date of Birth": "10/04/1987",
+    "PAN Number": "CDPPK0106F"
+  },
+  {
+    "Name": "ANKIT SHIVHARE",
+    "Parent's Name": "ANITA SHIVHARE",
+    "Date of Birth": "19/07/2000",
+    "PAN Number": "MFHPS3649F"
+  },
+  {
+    "Name": "VISHAL RAJ",
+    "Parent's Name": "ANJANI KUMAR SINHA",
+    "Date of Birth": "17/09/1995",
+    "PAN Number": "CKPPR3529A"
+  },
+  {
+    "Name": "ARGHYA NIYOGI",
+    "Parent's Name": "SHANKARI PRASAD NIYOGI",
+    "Date of Birth": "13/06/1986",
+    "PAN Number": "AHSPN9900F"
+  },
+  {
+    "Name": "HARSHAD PRABHAKAR MANTRI",
+    "Parent's Name": "PRABHAKAR BHAGAWANT MANTRI",
+    "Date of Birth": "01/12/1985",
+    "PAN Number": "AYTPM3079N"
+  },
+  {
+    "Name": "VIGNESHA B D",
+    "Parent's Name": "BARAGODU CHIDAMBARAIAH DAYANAND",
+    "Date of Birth": "11/10/1990",
+    "PAN Number": "AIGPV7315R"
+  },
+  {
+    "Name": "NEPAL CHANDRA BASAK",
+    "Parent's Name": "BHAJAN CHANDRA BASAK",
+    "Date of Birth": "21/11/1985",
+    "PAN Number": "CECPB1060H"
+  },
+  {
+    "Name": "BISWABHUSAN PARIDA",
+    "Parent's Name": "ANTARYAMI PARIDA",
+    "Date of Birth": "01/05/1993",
+    "PAN Number": "CGIPP8467N"
+  },
+  {
+    "Name": "ABHISHEK KUMAR SINGH",
+    "Parent's Name": "RAJ KUMAR SINGH",
+    "Date of Birth": "10/06/1992",
+    "PAN Number": "DPTPS4099C"
+  },
+  {
+    "Name": "MUNNA RAJAK",
+    "Parent's Name": "SHYAM SUNDAR RAJAK",
+    "Date of Birth": "12/09/1987",
+    "PAN Number": "AYEPR6900Q"
+  },
+  {
+    "Name": "ISMAIL SEKH",
+    "Parent's Name": "JALIL SEKH",
+    "Date of Birth": "01/01/2000",
+    "PAN Number": "LMLPS9079R"
+  },
+  {
+    "Name": "SAYED ASGAR SAYED AKBAR",
+    "Parent's Name": "SAYED AKBAR SAYED BOODAN",
+    "Date of Birth": "16/02/1991",
+    "PAN Number": "ESIPS2414A"
+  },
+  {
+    "Name": "BASANT SRIVASTAVA",
+    "Parent's Name": "SATISH CHANDRA SRIVASTAVA",
+    "Date of Birth": "18/12/1980",
+    "PAN Number": "BOJPS4246C"
+  },
+  {
+    "Name": "PRIYA",
+    "Parent's Name": "RAJENDRAN",
+    "Date of Birth": "16/11/1987",
+    "PAN Number": "BRYPP9630B"
+  },
+  {
+    "Name": "TINKU GIRI",
+    "Parent's Name": "SAJAL GIRI",
+    "Date of Birth": "07/11/1996",
+    "PAN Number": "CRLPG8173L"
+  },
+  {
+    "Name": "HARISCHANDRA DE",
+    "Parent's Name": "GANAPATI DE",
+    "Date of Birth": "06/02/2000",
+    "PAN Number": "EYKPD4153F"
+  },
+  {
+    "Name": "PIYUSH ANIL CHAUDHARI",
+    "Parent's Name": "ANIL SUDHAKAR CHAUDHARI",
+    "Date of Birth": "27/04/1991",
+    "PAN Number": "APLPC0033M"
+  },
+  {
+    "Name": "KRIPAMAY PAUL",
+    "Parent's Name": "PARAN CHANDRA PAUL",
+    "Date of Birth": "28/05/1999",
+    "PAN Number": "EYHPP5422G"
+  },
+  {
+    "Name": "SUKHAMAY KHAN",
+    "Parent's Name": "PRABHAKAR KHAN",
+    "Date of Birth": "13/10/1972",
+    "PAN Number": "GJIPK2342N"
+  },
+  {
+    "Name": "SURAJ CHAUHAN",
+    "Parent's Name": "JIYALAL CHAUHAN",
+    "Date of Birth": "31/01/1992",
+    "PAN Number": "ARVPC9636J"
+  },
+  {
+    "Name": "KANAI RAJBANSHI",
+    "Parent's Name": "JIBAN RAJBANSHI",
+    "Date of Birth": "15/08/1992",
+    "PAN Number": "BMXPR0215G"
+  },
+  {
+    "Name": "ATIKUL RAHAMAN",
+    "Parent's Name": "SEKH SURHAB",
+    "Date of Birth": "17/01/1998",
+    "PAN Number": "CVNPR2346L"
+  },
+  {
+    "Name": "ASHISHKUMAR S BHANGALE",
+    "Parent's Name": "SHANKARBHAI PUNDLIKBHAI BHANGALE",
+    "Date of Birth": "29/11/1990",
+    "PAN Number": "AXDPB8545R"
+  },
+  {
+    "Name": "JAYANTA MAJI",
+    "Parent's Name": "SANAT KUMAR MAJI",
+    "Date of Birth": "26/05/1993",
+    "PAN Number": "BQIPM5867N"
+  },
+  {
+    "Name": "ABRAR AHMAD SHAH",
+    "Parent's Name": "IRSHAD AHMAD SHAH",
+    "Date of Birth": "11/11/1990",
+    "PAN Number": "DTAPS1466N"
+  },
+  {
+    "Name": "SELHUVO LOHE",
+    "Parent's Name": "CHINEYI LOHE",
+    "Date of Birth": "10/09/2001",
+    "PAN Number": "BFAPL9762A"
+  },
+  {
+    "Name": "SANJAY PAL",
+    "Parent's Name": "BISHNUPADA PAL",
+    "Date of Birth": "12/09/1997",
+    "PAN Number": "KPXPS8512B"
+  },
+  {
+    "Name": "BABY KUMARI",
+    "Parent's Name": "UPENDRA PRASAD YADAV",
+    "Date of Birth": "20/12/1982",
+    "PAN Number": "BQOPK4505R"
+  },
+  {
+    "Name": "VINEET SHUKLA",
+    "Parent's Name": "SUNIL SHUKLA",
+    "Date of Birth": "20/07/1989",
+    "PAN Number": "DDJPS5422R"
+  },
+  {
+    "Name": "GOURI BARMAN",
+    "Parent's Name": "GOURANGA SARKAR",
+    "Date of Birth": "15/03/1990",
+    "PAN Number": "EVZPB3071E"
+  },
+  {
+    "Name": "HIMANSHU BUDAKOTI",
+    "Parent's Name": "DWARIKA PRASAD BUDAKOTI",
+    "Date of Birth": "18/04/1992",
+    "PAN Number": "BEAPB0339A"
+  },
+  {
+    "Name": "VIVEK JAGDISHKUMAR RAJA",
+    "Parent's Name": "JAGDISHKUMAR JAMNADAS RAJA",
+    "Date of Birth": "15/07/1993",
+    "PAN Number": "BDRPR1381L"
+  },
+  {
+    "Name": "AMOL VINAYAK SOOR",
+    "Parent's Name": "VINAYAK ANANDRAO SOOR",
+    "Date of Birth": "23/10/1987",
+    "PAN Number": "CFJPS2387N"
+  },
+  {
+    "Name": "VIKAS SINGH",
+    "Parent's Name": "AJAYPAL SINGH",
+    "Date of Birth": "05/08/2000",
+    "PAN Number": "MKZPS7795F"
+  },
+  {
+    "Name": "BASANTI PANDEY",
+    "Parent's Name": "SHANKAR DATT PANDEY",
+    "Date of Birth": "15/02/1986",
+    "PAN Number": "EKHPP6444Q"
+  },
+  {
+    "Name": "MITHUN PANDIT",
+    "Parent's Name": "JAGAI PANDIT",
+    "Date of Birth": "04/04/1997",
+    "PAN Number": "ERWPP8509L"
+  },
+  {
+    "Name": "SAFIRUL SK",
+    "Parent's Name": "SHARIYATULLA SEKH",
+    "Date of Birth": "27/06/2000",
+    "PAN Number": "MOHPS1427L"
+  },
+  {
+    "Name": "YOGENDRA DASHRATHSINGH CHOUHAN",
+    "Parent's Name": "DASHRATHSINGH CHOUHAN",
+    "Date of Birth": "06/02/1994",
+    "PAN Number": "BFRPC4243Q"
+  },
+  {
+    "Name": "POOJA RAMCHANDRA GAWADE",
+    "Parent's Name": "RAMCHANDRA GAWADE",
+    "Date of Birth": "27/09/2003",
+    "PAN Number": "AMYPG2293F"
+  },
+  {
+    "Name": "PURNIMA PAUL",
+    "Parent's Name": "BHIM KUMBHAKAR",
+    "Date of Birth": "11/12/1973",
+    "PAN Number": "DPKPP4924L"
+  },
+  {
+    "Name": "SK RAJESH",
+    "Parent's Name": "SK BABULAL",
+    "Date of Birth": "11/05/2001",
+    "PAN Number": "EHKPR3804Q"
+  },
+  {
+    "Name": "MITULKUMAR P PATEL",
+    "Parent's Name": "PUNJABHAI AMBALAL PATEL",
+    "Date of Birth": "08/10/1988",
+    "PAN Number": "BTJPP9201K"
+  },
+  {
+    "Name": "DEEPAK BACHANTI",
+    "Parent's Name": "RAMRAO BACHANTI",
+    "Date of Birth": "14/12/1984",
+    "PAN Number": "BJSPB0923R"
+  },
+  {
+    "Name": "TAPAS KARMAKAR",
+    "Parent's Name": "BHIM KARMAKAR",
+    "Date of Birth": "04/04/1990",
+    "PAN Number": "ARCPK6823C"
+  },
+  {
+    "Name": "RAVIKANT SINGH",
+    "Parent's Name": "SHIVNATH SINGH",
+    "Date of Birth": "16/05/1990",
+    "PAN Number": "CWQPS0926P"
+  },
+  {
+    "Name": "BIBEK GORAI",
+    "Parent's Name": "SANJIT GORAI",
+    "Date of Birth": "17/05/1998",
+    "PAN Number": "CIPPG0180G"
+  },
+  {
+    "Name": "ANURAG GUPTA",
+    "Parent's Name": "BALBIR CHAND GUPTA",
+    "Date of Birth": "03/09/1971",
+    "PAN Number": "AAUPG0506D"
+  },
+  {
+    "Name": "MEFUZ ALAM SEKH",
+    "Parent's Name": "SAFIRUDDIN SEIKH",
+    "Date of Birth": "10/11/2000",
+    "PAN Number": "MOAPS6523L"
+  },
+  {
+    "Name": "PADMANABH GIRISH RUDRAWAR",
+    "Parent's Name": "GIRISH RUDRAWAR",
+    "Date of Birth": "25/07/1994",
+    "PAN Number": "BPVPR4733J"
+  },
+  {
+    "Name": "RAJA BAG",
+    "Parent's Name": "MAHADEB BAG",
+    "Date of Birth": "05/07/2000",
+    "PAN Number": "EWNPB7063P"
+  },
+  {
+    "Name": "VIJAY PAL GUPTA",
+    "Parent's Name": "GOPI CHAND GUPTA",
+    "Date of Birth": "27/01/1961",
+    "PAN Number": "ACOPG6634J"
+  },
+  {
+    "Name": "FAIYAZ M SHAIKH",
+    "Parent's Name": "MAHAMMED HUSAIN ANWAR HUSAIN SHAIKH",
+    "Date of Birth": "09/11/1975",
+    "PAN Number": "BPSPS8254Q"
+  },
+  {
+    "Name": "SHIBURAM MAJHI",
+    "Parent's Name": "SHASANKA MAJHI",
+    "Date of Birth": "19/12/1987",
+    "PAN Number": "CBRPM2756H"
+  },
+  {
+    "Name": "UPPUTOLLA SRAVAN KUMAR",
+    "Parent's Name": "PRABHAKAR RAO UPPUTOLLA",
+    "Date of Birth": "31/07/1988",
+    "PAN Number": "ADNPU0056G"
+  },
+  {
+    "Name": "CHAITANYA S POWAR",
+    "Parent's Name": "SHASHIKANT NAMDEO POWAR",
+    "Date of Birth": "20/12/1990",
+    "PAN Number": "AZRPP1544J"
+  },
+  {
+    "Name": "PRAHALADAN",
+    "Parent's Name": "GANGADHARAN",
+    "Date of Birth": "09/05/1982",
+    "PAN Number": "BYXPP5770J"
+  },
+  {
+    "Name": "CHANDAN KUMAR PATEL",
+    "Parent's Name": "MOTI SINGH PATEL",
+    "Date of Birth": "23/10/1984",
+    "PAN Number": "AMSPP3465G"
+  },
+  {
+    "Name": "SOURABH AGRAWAL",
+    "Parent's Name": "KISHORE KUMAR AGRAWAL",
+    "Date of Birth": "09/09/1985",
+    "PAN Number": "BLIPA2414G"
+  },
+  {
+    "Name": "PALLIKILA SANTOSH",
+    "Parent's Name": "PALLIKILA VENKATA RAMANA REDDY",
+    "Date of Birth": "16/03/1986",
+    "PAN Number": "APUPP2551A"
+  },
+  {
+    "Name": "KONARIGURTA SUBRAMANYAM RAKESH",
+    "Parent's Name": "SUBRAMANYAM KONARIGUNTA",
+    "Date of Birth": "28/10/1993",
+    "PAN Number": "DOXPK1412Q"
+  },
+  {
+    "Name": "MEHUL YASHWANT MAGDUM",
+    "Parent's Name": "YASHWANT GOPAL MAGDUM",
+    "Date of Birth": "07/03/1993",
+    "PAN Number": "CITPM6035L"
+  },
+  {
+    "Name": "S SATHISH",
+    "Parent's Name": "SUBRAMANIAN",
+    "Date of Birth": "16/07/1984",
+    "PAN Number": "CVEPS1336J"
+  },
+  {
+    "Name": "SAURABHA S JOGLEKAR",
+    "Parent's Name": "SANJAY KRISHNAJI JOGLEKAR",
+    "Date of Birth": "26/10/1991",
+    "PAN Number": "ANAPJ6714H"
+  },
+  {
+    "Name": "JAIN NIRAV CHAINSUKH",
+    "Parent's Name": "CHENSUKH MANGILAL JAIN",
+    "Date of Birth": "12/09/1983",
+    "PAN Number": "AHGPJ0647R"
+  },
+  {
+    "Name": "BINEETH DHIRUBHAI MISTRY",
+    "Parent's Name": "DHIRUBHAI MISTRY",
+    "Date of Birth": "24/08/1970",
+    "PAN Number": "ADNPM8067F"
+  },
+  {
+    "Name": "ALOK MUKIM",
+    "Parent's Name": "NIRANJAN MUKIM",
+    "Date of Birth": "26/08/1984",
+    "PAN Number": "AQUPM4979N"
+  },
+  {
+    "Name": "DEBANSHU MONDAL",
+    "Parent's Name": "RABINDRANATH MONDAL",
+    "Date of Birth": "31/07/1998",
+    "PAN Number": "DHKPM7137N"
+  },
+  {
+    "Name": "ALORANI BASAK",
+    "Parent's Name": "BRAJLAL BASAK",
+    "Date of Birth": "21/03/1962",
+    "PAN Number": "EXGPB3759G"
+  },
+  {
+    "Name": "PIYUSH SONEJA",
+    "Parent's Name": "RAJAN KUMAR SONEJA",
+    "Date of Birth": "10/09/1991",
+    "PAN Number": "AZYPS1850M"
+  },
+  {
+    "Name": "RAKESH KASANA",
+    "Parent's Name": "CHARAN SINGH",
+    "Date of Birth": "15/06/1982",
+    "PAN Number": "COIPS6575Q"
+  },
+  {
+    "Name": "AMIT DEVENDRA PALIWAL",
+    "Parent's Name": "DEVENDRA KUMAR PALIWAL",
+    "Date of Birth": "14/04/1975",
+    "PAN Number": "AIXPP5669B"
+  },
+  {
+    "Name": "DULAL CHANDRA BISWAS",
+    "Parent's Name": "MAHENDRA NATH BISWAS",
+    "Date of Birth": "18/08/1967",
+    "PAN Number": "COHPB4103C"
+  },
+  {
+    "Name": "SUMAN SASMAL",
+    "Parent's Name": "JATINDRA SASMAL",
+    "Date of Birth": "16/05/1998",
+    "PAN Number": "IMTPS8639L"
+  },
+  {
+    "Name": "RAMYA DUBEY",
+    "Parent's Name": "AVADHESH DUBEY",
+    "Date of Birth": "06/10/1996",
+    "PAN Number": "CEOPD7137R"
+  },
+  {
+    "Name": "VISHAL YADAV",
+    "Parent's Name": "SATYANARAYAN YADAV",
+    "Date of Birth": "16/02/1989",
+    "PAN Number": "AFCPY2821A"
+  },
+  {
+    "Name": "SUKUMAR SENAPATI",
+    "Parent's Name": "SENAPATI RAMCHANDRA",
+    "Date of Birth": "14/10/1992",
+    "PAN Number": "DPSPS0864E"
+  },
+  {
+    "Name": "REX U",
+    "Parent's Name": "UBALD",
+    "Date of Birth": "05/07/1991",
+    "PAN Number": "BNJPR5963E"
+  },
+  {
+    "Name": "SHAIKH SHOEB AHMED M",
+    "Parent's Name": "MUSHTAQUE AHMED SHAIKH",
+    "Date of Birth": "20/07/1985",
+    "PAN Number": "BFYPS7499F"
+  },
+  {
+    "Name": "AJIT KUMAR BENIA",
+    "Parent's Name": "ASHOK BENIA",
+    "Date of Birth": "05/07/1999",
+    "PAN Number": "EPOPB9923N"
+  },
+  {
+    "Name": "JAYANTA SINGHA MAHAPATRA",
+    "Parent's Name": "ACHINTYA SINGHA MAHAPATRA",
+    "Date of Birth": "25/03/1998",
+    "PAN Number": "DHZPM7019E"
+  },
+  {
+    "Name": "SUSHEEL ATMARAM SHARMA",
+    "Parent's Name": "ATMARAM BALMUKUND SHARMA",
+    "Date of Birth": "12/04/1985",
+    "PAN Number": "BEIPS8662F"
+  },
+  {
+    "Name": "SHWETA GARG",
+    "Parent's Name": "KANHIYA LAL AGRAWAL",
+    "Date of Birth": "28/12/1985",
+    "PAN Number": "BEHPG5486C"
+  },
+  {
+    "Name": "RITUPARNA DINDA",
+    "Parent's Name": "PRADIP DINDA",
+    "Date of Birth": "02/09/1996",
+    "PAN Number": "DZCPD0074F"
+  },
+  {
+    "Name": "PRASENJIT BHUNIA",
+    "Parent's Name": "DULAL CHANDRA BHUNIA",
+    "Date of Birth": "30/06/1988",
+    "PAN Number": "BSPPB6822B"
+  },
+  {
+    "Name": "MINI RAWAT",
+    "Parent's Name": "SATENDRA SINGH RAWAT",
+    "Date of Birth": "22/06/1989",
+    "PAN Number": "BOAPR6483R"
+  },
+  {
+    "Name": "MITESH N NAI",
+    "Parent's Name": "NAGJIBHAI NATUBHAI NAI",
+    "Date of Birth": "01/11/1983",
+    "PAN Number": "AFLPN1350E"
+  },
+  {
+    "Name": "SOUVIK ACHARYA",
+    "Parent's Name": "DEBATOSH ACHARYA",
+    "Date of Birth": "02/02/2000",
+    "PAN Number": "CUFPA8939K"
+  },
+  {
+    "Name": "HITESH VIRENDRA SHARMA",
+    "Parent's Name": "VIRENDRA VIDHYADHAR SHARMA",
+    "Date of Birth": "04/06/1992",
+    "PAN Number": "DWHPS4210L"
+  },
+  {
+    "Name": "PURNIMA SARDAR",
+    "Parent's Name": "BALAI SARDAR",
+    "Date of Birth": "21/02/1982",
+    "PAN Number": "IMUPS9624A"
+  },
+  {
+    "Name": "KARTICK CH MONDAL",
+    "Parent's Name": "NITAI PADA MONDAL",
+    "Date of Birth": "07/07/1970",
+    "PAN Number": "EFLPM8192D"
+  },
+  {
+    "Name": "CHESTHA MITTAL",
+    "Parent's Name": "ALOK AGRAWAL",
+    "Date of Birth": "23/12/1993",
+    "PAN Number": "CMCPM2872E"
+  },
+  {
+    "Name": "SANJIT DE",
+    "Parent's Name": "NILKAMAL DEY",
+    "Date of Birth": "01/01/1979",
+    "PAN Number": "GBOPD0115G"
+  },
+  {
+    "Name": "SABITRI JANA PRADHAN",
+    "Parent's Name": "RASHBEHARI PRADHAN",
+    "Date of Birth": "17/01/1981",
+    "PAN Number": "ATWPJ4580D"
+  },
+  {
+    "Name": "MOHAMMAD FIROJ KHAN",
+    "Parent's Name": "MOHAMMAD FAIYAJ KHAN",
+    "Date of Birth": "01/01/2002",
+    "PAN Number": "NPEPK5263R"
+  },
+  {
+    "Name": "RAJAT BHATTACHARGA",
+    "Parent's Name": "SADHAN BHATTACHARGA",
+    "Date of Birth": "23/11/1992",
+    "PAN Number": "BNCPB1769B"
+  },
+  {
+    "Name": "JYOTIRANJAN ROUT",
+    "Parent's Name": "ROHIT KUMAR ROUT",
+    "Date of Birth": "07/09/2000",
+    "PAN Number": "DYWPR3654G"
+  },
+  {
+    "Name": "SATYANARAYAN BISOI",
+    "Parent's Name": "KUMUDA CHANDRA BISOI",
+    "Date of Birth": "26/01/1981",
+    "PAN Number": "AVEPB0295M"
+  },
+  {
+    "Name": "SUKDEB MAJHI",
+    "Parent's Name": "RABINDRANATH MAJHI",
+    "Date of Birth": "10/07/2000",
+    "PAN Number": "FMAPM3881C"
+  },
+  {
+    "Name": "RAJU PAL",
+    "Parent's Name": "SUJAY PAL",
+    "Date of Birth": "18/12/2000",
+    "PAN Number": "EXWPP1750B"
+  },
+  {
+    "Name": "SUBRATA SUTRADHAR",
+    "Parent's Name": "SUBHASH SUTRADHAR",
+    "Date of Birth": "01/01/1989",
+    "PAN Number": "LCSPS4727F"
+  },
+  {
+    "Name": "SOUMYA MANDAL",
+    "Parent's Name": "TAPAN MANDAL",
+    "Date of Birth": "26/06/2000",
+    "PAN Number": "FNKPM4424G"
+  },
+  {
+    "Name": "DIPANKAR DHAURIA",
+    "Parent's Name": "PURNENDU DHAURIA",
+    "Date of Birth": "27/11/1998",
+    "PAN Number": "EXHPD6846P"
+  },
+  {
+    "Name": "K PALANIVELU",
+    "Parent's Name": "KALIYAPERUMAL",
+    "Date of Birth": "12/04/1972",
+    "PAN Number": "DOQPP1462G"
+  },
+  {
+    "Name": "NITIN KESHAV KAMBLE",
+    "Parent's Name": "KESHAV KRUSHNA KAMBLE",
+    "Date of Birth": "06/05/1982",
+    "PAN Number": "APBPK4624C"
+  },
+  {
+    "Name": "PURNA CHANDRA JANA",
+    "Parent's Name": "ANIL JANA",
+    "Date of Birth": "22/12/1999",
+    "PAN Number": "CBGPJ6970F"
+  },
+  {
+    "Name": "MANISH KUMAR ACHARYA",
+    "Parent's Name": "GOPAL DASS ACHARYA",
+    "Date of Birth": "31/07/1996",
+    "PAN Number": "BYAPK4169B"
+  },
+  {
+    "Name": "LALITHA THACHETHU RAMACHANDRAN",
+    "Parent's Name": "RAMACHANDRAN THACHETHU BHATTU",
+    "Date of Birth": "09/12/1955",
+    "PAN Number": "ACRPR8065M"
+  },
+  {
+    "Name": "UMESH PANDURANG JADHAV",
+    "Parent's Name": "PANDURANG DADA JADHAV",
+    "Date of Birth": "20/03/1980",
+    "PAN Number": "AECPJ5380C"
+  },
+  {
+    "Name": "KARTHIK KUMAR B L",
+    "Parent's Name": "LOKESHA",
+    "Date of Birth": "15/03/1992",
+    "PAN Number": "CPHPK5965G"
+  },
+  {
+    "Name": "BHOJ RAJ YADAV",
+    "Parent's Name": "LAXMAN YADAV",
+    "Date of Birth": "10/08/1998",
+    "PAN Number": "BCWPY2299G"
+  },
+  {
+    "Name": "ARJUN KARMAKAR",
+    "Parent's Name": "NAKUL KARMAKAR",
+    "Date of Birth": "09/08/1973",
+    "PAN Number": "BCSPK0186L"
+  },
+  {
+    "Name": "JYOTI SANTOSH POLKAM",
+    "Parent's Name": "RAMDAS NARAYAN NAGULPELLI",
+    "Date of Birth": "25/04/1988",
+    "PAN Number": "BMWPP4457K"
+  },
+  {
+    "Name": "SUNIT B BHUMAR",
+    "Parent's Name": "BASAVALINGAPPA",
+    "Date of Birth": "30/10/1990",
+    "PAN Number": "FBIPS2651K"
+  },
+  {
+    "Name": "KUNAL N WALAVALKAR",
+    "Parent's Name": "NISHIKANT WALAVALKAR",
+    "Date of Birth": "25/10/1976",
+    "PAN Number": "ABIPW1908N"
+  },
+  {
+    "Name": "AMIT KUMAR",
+    "Parent's Name": "DHARAM PAL",
+    "Date of Birth": "23/08/1988",
+    "PAN Number": "BJLPK8907M"
+  },
+  {
+    "Name": "SANJEEV BHUGITA",
+    "Parent's Name": "NAND KISHORE",
+    "Date of Birth": "12/08/1992",
+    "PAN Number": "BVAPB7961H"
+  },
+  {
+    "Name": "NIKUNJ T GOTI",
+    "Parent's Name": "TRIKAMBHAI PARSHOTTAMBHAI GOTI",
+    "Date of Birth": "21/12/1993",
+    "PAN Number": "BCGPG5116A"
+  },
+  {
+    "Name": "SUDEEP PATIDAR",
+    "Parent's Name": "JAGDISH PATIDAR",
+    "Date of Birth": "31/12/1992",
+    "PAN Number": "CNXPP1590A"
+  },
+  {
+    "Name": "VIJAYKUMAR KUNDANMAL JAIN",
+    "Parent's Name": "KUNDANMAL KAPURCHANDJI JAIN",
+    "Date of Birth": "26/03/1966",
+    "PAN Number": "AARPJ7293B"
+  },
+  {
+    "Name": "GOWRISH",
+    "Parent's Name": "SHIVASHANKAR",
+    "Date of Birth": "01/10/1993",
+    "PAN Number": "BFSPG4154B"
+  },
+  {
+    "Name": "ISRANI DILIP BHAGWANDAS",
+    "Parent's Name": "BHAGWANDAS DEVANDAS ISRANI",
+    "Date of Birth": "17/11/1991",
+    "PAN Number": "ABKPI7763H"
+  },
+  {
+    "Name": "MD ALMAS",
+    "Parent's Name": "MD KALAM",
+    "Date of Birth": "09/05/1996",
+    "PAN Number": "DMGPA5785M"
+  },
+  {
+    "Name": "BIKRAM DUTTA",
+    "Parent's Name": "BANAMALI DUTTA",
+    "Date of Birth": "12/01/1999",
+    "PAN Number": "EQAPD8760A"
+  },
+  {
+    "Name": "NITESH KUMAR JHA",
+    "Parent's Name": "BADYA NATH JHA",
+    "Date of Birth": "12/01/1995",
+    "PAN Number": "AYPPJ4869D"
+  },
+  {
+    "Name": "MAHENDRA PRATAP SINGH",
+    "Parent's Name": "RAM BAHADUR SINGH",
+    "Date of Birth": "08/12/1979",
+    "PAN Number": "CGUPS2746D"
+  },
+  {
+    "Name": "MAHABBAT SK",
+    "Parent's Name": "SAYDAR SK",
+    "Date of Birth": "01/01/2000",
+    "PAN Number": "KUAPS2676N"
+  },
+  {
+    "Name": "AUGUMAMIDI NAVEEN REDDY",
+    "Parent's Name": "VENKAT REDDY AUGUMAMIDI",
+    "Date of Birth": "14/06/1999",
+    "PAN Number": "DDSPA6027H"
+  },
+  {
+    "Name": "AANALKUMARI MAGANLAL PATEL",
+    "Parent's Name": "MAGANLAL BHANJIBHAI PATEL",
+    "Date of Birth": "26/08/1994",
+    "PAN Number": "CXXPP7011E"
+  },
+  {
+    "Name": "ABHIJIT MURMU",
+    "Parent's Name": "SUSHIL MURMU",
+    "Date of Birth": "10/02/1996",
+    "PAN Number": "EZDPM5361L"
+  },
+  {
+    "Name": "KRISHNENDU BHUNIA",
+    "Parent's Name": "DILIP BHUNIA",
+    "Date of Birth": "18/08/1998",
+    "PAN Number": "EECPB4163P"
+  },
+  {
+    "Name": "CHANDRA PRAKASH SINGH",
+    "Parent's Name": "FATEH SINGH",
+    "Date of Birth": "07/05/1997",
+    "PAN Number": "IBVPS0630E"
+  },
+  {
+    "Name": "SASMITA SAHOO",
+    "Parent's Name": "RAGHUNATH SAHOO",
+    "Date of Birth": "16/07/1980",
+    "PAN Number": "EICPS8423R"
+  },
+  {
+    "Name": "VIVEK MEHTA",
+    "Parent's Name": "GOVIND SINGH MEHTA",
+    "Date of Birth": "14/02/1965",
+    "PAN Number": "ACIPM6036A"
+  },
+  {
+    "Name": "BARSHA BISWAS",
+    "Parent's Name": "DULAL CHANDRA BISWAS",
+    "Date of Birth": "30/08/1998",
+    "PAN Number": "EVXPB4406F"
+  },
+  {
+    "Name": "ANISH SANJIVA SHETTY",
+    "Parent's Name": "SANJIVA CHAINDYA SHETTY",
+    "Date of Birth": "26/06/1991",
+    "PAN Number": "DYIPS3491E"
+  },
+  {
+    "Name": "JOYDEB PANDIT",
+    "Parent's Name": "HIRALAL PANDIT",
+    "Date of Birth": "03/04/1997",
+    "PAN Number": "DQUPP1388B"
+  },
+  {
+    "Name": "DEV KUMAR JANA",
+    "Parent's Name": "PITABASH JANA",
+    "Date of Birth": "18/06/1998",
+    "PAN Number": "BSFPJ9857A"
+  },
+  {
+    "Name": "SIDDIKULLAH SEKH",
+    "Parent's Name": "ABUTAIYAB SEKH",
+    "Date of Birth": "14/02/1992",
+    "PAN Number": "KYMPS5900K"
+  },
+  {
+    "Name": "JITENDRA L THAKKAR",
+    "Parent's Name": "LALJIBHAI THAKKAR",
+    "Date of Birth": "22/03/1963",
+    "PAN Number": "AAHPT1616N"
+  },
+  {
+    "Name": "HEMANGKUMAR PATEL",
+    "Parent's Name": "NAROTTAMBHAI SHIVAJIBHAI PATEL",
+    "Date of Birth": "30/09/1994",
+    "PAN Number": "CTGPP5230C"
+  },
+  {
+    "Name": "SHYAMAL KARMAKAR",
+    "Parent's Name": "JYOTISH KARMAKAR",
+    "Date of Birth": "19/05/1982",
+    "PAN Number": "GMSPK3520B"
+  },
+  {
+    "Name": "NAVANEETHA KRISHNA",
+    "Parent's Name": "SAMPATH KUMAR BHAT",
+    "Date of Birth": "11/07/1995",
+    "PAN Number": "DOAPK0023L"
+  },
+  {
+    "Name": "VINAY CHANDRA ALOFS",
+    "Parent's Name": "SESHACHAR",
+    "Date of Birth": "02/09/1981",
+    "PAN Number": "AQDPA6815A"
+  },
+  {
+    "Name": "T CHENTHAMIZH ARASU",
+    "Parent's Name": "TAMILSELVAN",
+    "Date of Birth": "07/04/1998",
+    "PAN Number": "BERPC3064A"
+  },
+  {
+    "Name": "HIFZUR REHMAN SHAIKH",
+    "Parent's Name": "TASNEEM AHMED",
+    "Date of Birth": "10/09/1994",
+    "PAN Number": "EMEPS0728D"
+  },
+  {
+    "Name": "PRASANTA PARYA",
+    "Parent's Name": "PANCHANAN PARYA",
+    "Date of Birth": "14/08/1992",
+    "PAN Number": "FCSPP7476N"
+  },
+  {
+    "Name": "AJAY CHAUHAN",
+    "Parent's Name": "GUMAN SINGH CHAUHAN",
+    "Date of Birth": "01/10/1996",
+    "PAN Number": "BEZPC5934D"
+  },
+  {
+    "Name": "DEBASISH GIRI",
+    "Parent's Name": "BENUMADHAB GIRI",
+    "Date of Birth": "01/01/1997",
+    "PAN Number": "CIGPG0308D"
+  },
+  {
+    "Name": "SAJAL BENIA",
+    "Parent's Name": "ASHOK BENIA",
+    "Date of Birth": "15/12/1995",
+    "PAN Number": "CLZPB8594A"
+  },
+  {
+    "Name": "ROHIT SINGH",
+    "Parent's Name": "SHIVKARAN SINGH",
+    "Date of Birth": "05/07/1996",
+    "PAN Number": "GUTPS9024P"
+  },
+  {
+    "Name": "TANMOY MONDAL",
+    "Parent's Name": "TAPAN MONDAL",
+    "Date of Birth": "30/07/1998",
+    "PAN Number": "DWCPM9332N"
+  },
+  {
+    "Name": "SOURAV MUKHERJEE",
+    "Parent's Name": "BHABANI PRASAD MUKHERJEE",
+    "Date of Birth": "14/02/2000",
+    "PAN Number": "EOGPM8422C"
+  },
+  {
+    "Name": "SOUVIK MANDAL",
+    "Parent's Name": "KANAI MANDAL",
+    "Date of Birth": "05/07/1998",
+    "PAN Number": "DWRPM3040J"
+  },
+  {
+    "Name": "MANOJ DAS",
+    "Parent's Name": "SAHADEV DAS",
+    "Date of Birth": "15/01/1995",
+    "PAN Number": "BUKPD0522R"
+  },
+  {
+    "Name": "HOSEN SEKH",
+    "Parent's Name": "SAMDAR SEKH",
+    "Date of Birth": "01/01/1995",
+    "PAN Number": "KMMPS7684J"
+  },
+  {
+    "Name": "SHARANAPPA",
+    "Parent's Name": "SAYAPPA",
+    "Date of Birth": "01/01/1992",
+    "PAN Number": "OTIPS0460P"
+  },
+  {
+    "Name": "RAMAVATI SINGH",
+    "Parent's Name": "INDER DEV SINGH",
+    "Date of Birth": "02/09/1976",
+    "PAN Number": "FWOPS8084P"
+  },
+  {
+    "Name": "AJIT GUCHHAIT",
+    "Parent's Name": "ARUN KUMAR GUCHHAIT",
+    "Date of Birth": "01/01/1993",
+    "PAN Number": "BJQPG0477D"
+  },
+  {
+    "Name": "PUNEET LALWANI",
+    "Parent's Name": "LAXMAN DAS LALWANI",
+    "Date of Birth": "13/09/1988",
+    "PAN Number": "AFGPL6788K"
+  },
+  {
+    "Name": "ABHIJIT HARISHCHANDRA NIMBALKAR",
+    "Parent's Name": "HARISHCHANDRA NIMBALKAR",
+    "Date of Birth": "11/09/1999",
+    "PAN Number": "BUQPN1136B"
+  },
+  {
+    "Name": "SUNITA",
+    "Parent's Name": "KAMAL SINGH",
+    "Date of Birth": "01/01/1986",
+    "PAN Number": "RLDPS3019A"
+  },
+  {
+    "Name": "AJAY BHARDWAJ",
+    "Parent's Name": "HARPAL SHARMA",
+    "Date of Birth": "08/12/1989",
+    "PAN Number": "BIQPB3661R"
+  },
+  {
+    "Name": "ABHALE SAMBHAJI SHIVAJI",
+    "Parent's Name": "SHIVAJI ABHALE",
+    "Date of Birth": "30/04/1987",
+    "PAN Number": "ALXPA8862C"
+  },
+  {
+    "Name": "YUSUF ALI",
+    "Parent's Name": "MOHD NASIR AHMED",
+    "Date of Birth": "05/01/1998",
+    "PAN Number": "BZCPA7039R"
+  },
+  {
+    "Name": "SHIBNATH PAUL",
+    "Parent's Name": "DINESH PAUL",
+    "Date of Birth": "04/08/1999",
+    "PAN Number": "ERSPP8138R"
+  },
+  {
+    "Name": "MAHADEV VITHOBA JANKAR",
+    "Parent's Name": "VITHOBA JANKAR",
+    "Date of Birth": "25/06/1978",
+    "PAN Number": "AVMPJ2344P"
+  },
+  {
+    "Name": "MOHAMMAD IZHAR",
+    "Parent's Name": "MOHAMMAD FAIYAJUDDIN",
+    "Date of Birth": "01/01/1985",
+    "PAN Number": "ACTPI0125R"
+  },
+  {
+    "Name": "TANU SHREE",
+    "Parent's Name": "HEM PAL SINGH",
+    "Date of Birth": "24/12/1989",
+    "PAN Number": "EUFPS1227C"
+  },
+  {
+    "Name": "BINOD KUMAR SAHU",
+    "Parent's Name": "BANAMALI SAHU",
+    "Date of Birth": "04/01/1964",
+    "PAN Number": "AFMPB5098R"
+  },
+  {
+    "Name": "SWADESH PRADHAN",
+    "Parent's Name": "BAREN PRADHAN",
+    "Date of Birth": "12/03/1950",
+    "PAN Number": "CAUPP1938C"
+  },
+  {
+    "Name": "BHARATI BERA",
+    "Parent's Name": "ANANTA DAS",
+    "Date of Birth": "17/06/1980",
+    "PAN Number": "CUOPB5671C"
+  },
+  {
+    "Name": "KAMLESH SAHU",
+    "Parent's Name": "SUMIRAN DAS SAHU",
+    "Date of Birth": "12/05/1980",
+    "PAN Number": "DMMPS6675A"
+  },
+  {
+    "Name": "RAJNI KANT PANDEY",
+    "Parent's Name": "AMAR NATH PANDEY",
+    "Date of Birth": "22/12/1984",
+    "PAN Number": "AULPP1538K"
+  },
+  {
+    "Name": "RAHUL KESHAVALU",
+    "Parent's Name": "KESHAVALU MUNIRATHNAM NAIDU",
+    "Date of Birth": "27/01/1992",
+    "PAN Number": "DXIPK7429B"
+  },
+  {
+    "Name": "SANTOSH SHOW",
+    "Parent's Name": "BASHISHTHA SHOW",
+    "Date of Birth": "02/05/1998",
+    "PAN Number": "KMHPS9539D"
+  },
+  {
+    "Name": "JAGDISH DAN CHARAN",
+    "Parent's Name": "BHERU DAN",
+    "Date of Birth": "23/09/1989",
+    "PAN Number": "BHRPC9632H"
+  },
+  {
+    "Name": "SACHIN SANTOSH KADAM",
+    "Parent's Name": "SANTOSH KADAM",
+    "Date of Birth": "12/02/1994",
+    "PAN Number": "EPTPK4924P"
+  },
+  {
+    "Name": "BHOLANATH MUKHERJEE",
+    "Parent's Name": "AJIT MUKHERJEE",
+    "Date of Birth": "15/07/1999",
+    "PAN Number": "FGCPM2801G"
+  },
+  {
+    "Name": "MOHAMMED MUSTHAFA C.P.",
+    "Parent's Name": "CHELATH PATTANMARIL THODI ABDU",
+    "Date of Birth": "10/05/1962",
+    "PAN Number": "CNSPM6009G"
+  },
+  {
+    "Name": "HIRAPARA PRITESH",
+    "Parent's Name": "G M HIRAPARA",
+    "Date of Birth": "15/07/1983",
+    "PAN Number": "ACIPH3934J"
+  },
+  {
+    "Name": "CHETAN KUMAR KABRA",
+    "Parent's Name": "LEHRI SHANKAR KABRA",
+    "Date of Birth": "28/06/1992",
+    "PAN Number": "CZOPK5321H"
+  },
+  {
+    "Name": "SUBARNA KESHARI NAYAK",
+    "Parent's Name": "SANJIB NAYAK",
+    "Date of Birth": "25/03/1998",
+    "PAN Number": "BUXPN8719B"
+  },
+  {
+    "Name": "SUMAN PAL",
+    "Parent's Name": "ADWAITYA PAL",
+    "Date of Birth": "23/05/2000",
+    "PAN Number": "EXMPP3693F"
+  },
+  {
+    "Name": "PEMA LHAMU BHUTIA",
+    "Parent's Name": "HISSAY DORJEE BHUTIA",
+    "Date of Birth": "01/01/1982",
+    "PAN Number": "COWPB8974E"
+  },
+  {
+    "Name": "JITENDRA YADAV",
+    "Parent's Name": "UDAY VEER SINGH",
+    "Date of Birth": "19/10/1989",
+    "PAN Number": "AEUPY3641P"
+  },
+  {
+    "Name": "PATU ROY",
+    "Parent's Name": "KALESWAR ROY",
+    "Date of Birth": "18/07/1975",
+    "PAN Number": "DJZPR5085P"
+  },
+  {
+    "Name": "BHUPESH A KOTKAR",
+    "Parent's Name": "ARVIND MADHAVRAO KOTKAR",
+    "Date of Birth": "07/12/1983",
+    "PAN Number": "AWGPK9184K"
+  },
+  {
+    "Name": "AMIT KUMAR",
+    "Parent's Name": "HARIOM KUMAR",
+    "Date of Birth": "05/03/1991",
+    "PAN Number": "BZNPK6004M"
+  },
+  {
+    "Name": "SUBHAM BERA",
+    "Parent's Name": "KANAI LAL BERA",
+    "Date of Birth": "02/11/1998",
+    "PAN Number": "DHCPB7008B"
+  },
+  {
+    "Name": "AASHISH SANTOSH GUPTA",
+    "Parent's Name": "SANTOSH SATYANARAYAN GUPTA",
+    "Date of Birth": "11/01/1996",
+    "PAN Number": "BTBPG7241J"
+  },
+  {
+    "Name": "SUBHANKAR JANA",
+    "Parent's Name": "SUNIL KUMAR JANA",
+    "Date of Birth": "05/11/1998",
+    "PAN Number": "BXKPJ9084K"
+  },
+  {
+    "Name": "VIJAYA CHANDRAN",
+    "Parent's Name": "MASILAMANI",
+    "Date of Birth": "06/04/1981",
+    "PAN Number": "ARQPC1234M"
+  },
+  {
+    "Name": "KUMAR",
+    "Parent's Name": "VENKATESAN",
+    "Date of Birth": "04/08/1951",
+    "PAN Number": "DMDPK1096N"
+  },
+  {
+    "Name": "HANSA GOPALBHAI CHAUHAN",
+    "Parent's Name": "GOPALBHAI CHAUHAN",
+    "Date of Birth": "14/08/1975",
+    "PAN Number": "CBBPC3753N"
+  },
+  {
+    "Name": "ANIL KUMAR BARAL",
+    "Parent's Name": "KABINDRA BARAL",
+    "Date of Birth": "11/04/2000",
+    "PAN Number": "EXQPB4997C"
+  },
+  {
+    "Name": "NILESH GHORAI",
+    "Parent's Name": "NILKAMAL GHORAI",
+    "Date of Birth": "28/12/1998",
+    "PAN Number": "CANPG7287E"
+  },
+  {
+    "Name": "DIPENDER KUMAR YADAV",
+    "Parent's Name": "VIJAY KUMAR YADAV",
+    "Date of Birth": "22/01/1997",
+    "PAN Number": "AMOPY5558K"
+  },
+  {
+    "Name": "SUKUMAR BANERJEE",
+    "Parent's Name": "SUBIR BANERJEE",
+    "Date of Birth": "28/09/1999",
+    "PAN Number": "DNQPB8416R"
+  },
+  {
+    "Name": "MALAY KUMAR PAL",
+    "Parent's Name": "MRITYUNJOY PAL",
+    "Date of Birth": "05/03/1989",
+    "PAN Number": "DTXPP8253D"
+  },
+  {
+    "Name": "INDRANI DUTTA",
+    "Parent's Name": "AJAY KUMAR DUTTA",
+    "Date of Birth": "23/11/1985",
+    "PAN Number": "CTRPD0844B"
+  },
+  {
+    "Name": "VELA RAM SOLANKI",
+    "Parent's Name": "KANARAM SOLANKI",
+    "Date of Birth": "04/09/1954",
+    "PAN Number": "AAHPS6365H"
+  },
+  {
+    "Name": "PRATYUSH SHARMA",
+    "Parent's Name": "MANISH SHARMA",
+    "Date of Birth": "05/11/2000",
+    "PAN Number": "LMDPS9536F"
+  },
+  {
+    "Name": "SHIBNATH BASAK",
+    "Parent's Name": "SUSHIL BASAK",
+    "Date of Birth": "07/09/1991",
+    "PAN Number": "DZCPB4020B"
+  },
+  {
+    "Name": "LAB PAUL",
+    "Parent's Name": "TAPAN PAUL",
+    "Date of Birth": "10/11/1998",
+    "PAN Number": "EBXPP0117F"
+  },
+  {
+    "Name": "PURNIMA DAS",
+    "Parent's Name": "RADHESHYAM RAJBANSHI",
+    "Date of Birth": "07/05/1978",
+    "PAN Number": "BINPD8911K"
+  },
+  {
+    "Name": "MILAN JANA",
+    "Parent's Name": "UTTAM JANA",
+    "Date of Birth": "02/03/2000",
+    "PAN Number": "CAVPJ9110K"
+  },
+  {
+    "Name": "KHAIRUL ALAM",
+    "Parent's Name": "MUSTAKIM SK",
+    "Date of Birth": "04/04/1996",
+    "PAN Number": "CZLPA2126B"
+  },
+  {
+    "Name": "SUPRIYA JANA",
+    "Parent's Name": "SAKTIPADA JANA",
+    "Date of Birth": "02/04/1998",
+    "PAN Number": "BWNPJ6752J"
+  },
+  {
+    "Name": "MAMLESH YADUWANSHI",
+    "Parent's Name": "OM PRAKASH YADUWANSHI",
+    "Date of Birth": "08/08/1998",
+    "PAN Number": "AVVPY0118P"
+  },
+  {
+    "Name": "PRAKASH KUMAR DASH",
+    "Parent's Name": "RAJ KISHORE DASH",
+    "Date of Birth": "07/05/1984",
+    "PAN Number": "CNRPD5366A"
+  },
+  {
+    "Name": "ABDUL MAJEED LONE",
+    "Parent's Name": "GHULAM HASSAN LONE",
+    "Date of Birth": "15/09/1980",
+    "PAN Number": "AYHPL0020E"
+  },
+  {
+    "Name": "NILKANTA BAYEN",
+    "Parent's Name": "ADWAITA BAYEN",
+    "Date of Birth": "24/04/1998",
+    "PAN Number": "DXMPB5452B"
+  },
+  {
+    "Name": "VIJAY KUMAR",
+    "Parent's Name": "CHHOTU RAM BAIRWA",
+    "Date of Birth": "27/09/1989",
+    "PAN Number": "BMZPB2728N"
+  },
+  {
+    "Name": "SUMAN KARAN",
+    "Parent's Name": "PABITRA KARAN",
+    "Date of Birth": "26/02/1997",
+    "PAN Number": "FUFPK4922R"
+  },
+  {
+    "Name": "MUKUL MONDAL",
+    "Parent's Name": "KARTICK MONDAL",
+    "Date of Birth": "14/01/1997",
+    "PAN Number": "CTXPM2004E"
+  },
+  {
+    "Name": "SUBRATA MANDAL",
+    "Parent's Name": "DILIP MANDAL",
+    "Date of Birth": "01/02/1999",
+    "PAN Number": "FWDPM8688C"
+  },
+  {
+    "Name": "JAHIR SK",
+    "Parent's Name": "AYNAL SK",
+    "Date of Birth": "12/04/2000",
+    "PAN Number": "MQYPS6545L"
+  },
+  {
+    "Name": "AKASH R KUMAR",
+    "Parent's Name": "REJIKUMAR KALEEKAL RAGHAVAN",
+    "Date of Birth": "21/11/1992",
+    "PAN Number": "CNIPR3431H"
+  },
+  {
+    "Name": "MAHAJAN PANKAJ ASHOK",
+    "Parent's Name": "ASHOK RAMRAO MAHAJAN",
+    "Date of Birth": "24/06/1988",
+    "PAN Number": "AXBPM1613M"
+  },
+  {
+    "Name": "ISHWARI SHEKHAR ZARE",
+    "Parent's Name": "SHEKHAR PRABHAKAR ZARE",
+    "Date of Birth": "12/12/1998",
+    "PAN Number": "ABSPZ3615R"
+  },
+  {
+    "Name": "PRADIP BASAK",
+    "Parent's Name": "BABURAM BASAK",
+    "Date of Birth": "03/04/1994",
+    "PAN Number": "CCCPB4069C"
+  },
+  {
+    "Name": "RAHUL",
+    "Parent's Name": "KAILASH",
+    "Date of Birth": "22/11/1998",
+    "PAN Number": "DYMPR1197A"
+  },
+  {
+    "Name": "ARKAPRABHA ADAK",
+    "Parent's Name": "HEMANTA KUMAR ADAK",
+    "Date of Birth": "20/04/1995",
+    "PAN Number": "BOFPA4255M"
+  },
+  {
+    "Name": "PRIYANKA SHARMA",
+    "Parent's Name": "PRABHAT KUMAR",
+    "Date of Birth": "05/02/1985",
+    "PAN Number": "CGKPS2857R"
+  },
+  {
+    "Name": "NIMMIN JOSE",
+    "Parent's Name": "OUSEPH DEVASSY PULLAN",
+    "Date of Birth": "21/01/1983",
+    "PAN Number": "AGKPJ8994G"
+  },
+  {
+    "Name": "SAPTARSHI SARKAR",
+    "Parent's Name": "SANTOSH KUMAR SARKAR",
+    "Date of Birth": "13/01/1992",
+    "PAN Number": "EWFPS6271G"
+  },
+  {
+    "Name": "NITIN KUMAR YADAV",
+    "Parent's Name": "GAJANAN YADAV",
+    "Date of Birth": "01/09/1983",
+    "PAN Number": "ACNPY8918L"
+  },
+  {
+    "Name": "REVANT AGARWAL",
+    "Parent's Name": "SURESH AGARWAL",
+    "Date of Birth": "03/07/1993",
+    "PAN Number": "BAIPA4743H"
+  },
+  {
+    "Name": "JADHAV BHUSHAN SHESHRAO",
+    "Parent's Name": "SHESHRAO MANIKRAO JADHAV",
+    "Date of Birth": "10/12/1988",
+    "PAN Number": "ATIPJ6111G"
+  },
+  {
+    "Name": "SANKAR MANNA",
+    "Parent's Name": "NARUGOPAL MANNA",
+    "Date of Birth": "20/03/1995",
+    "PAN Number": "CTVPM4867P"
+  },
+  {
+    "Name": "SOUGATA BEJ",
+    "Parent's Name": "GOURHARI BEJ",
+    "Date of Birth": "14/11/2000",
+    "PAN Number": "EFVPB5665G"
+  },
+  {
+    "Name": "MANDADAPU SWATHI",
+    "Parent's Name": "APPARAO MANDADAPU",
+    "Date of Birth": "28/05/1988",
+    "PAN Number": "BQQPM1648K"
+  },
+  {
+    "Name": "SENAPATI RAMCHANDRA",
+    "Parent's Name": "SUKUMAR SENAPATI",
+    "Date of Birth": "14/10/1992",
+    "PAN Number": "DPSPS0864E"
+  },
+  {
+    "Name": "MANAS GHOSH",
+    "Parent's Name": "PRATAP GHOSH",
+    "Date of Birth": "20/04/1981",
+    "PAN Number": "BGQPG9080B"
+  },
+  {
+    "Name": "BIMALA PAUL",
+    "Parent's Name": "LAFAR KUMBHAKAR",
+    "Date of Birth": "12/04/1997",
+    "PAN Number": "EODPP1186K"
+  },
+  {
+    "Name": "MOHD YUSUF KHAN",
+    "Parent's Name": "HAJI RAMJANI KHAN",
+    "Date of Birth": "31/12/1977",
+    "PAN Number": "ACSPK8262C"
+  },
+  {
+    "Name": "BIMAL DE",
+    "Parent's Name": "SAMAR DE",
+    "Date of Birth": "07/06/1979",
+    "PAN Number": "BFSPD2376A"
+  },
+  {
+    "Name": "SOURAY SINGHA",
+    "Parent's Name": "BOYUT SINGHA",
+    "Date of Birth": "04/09/2000",
+    "PAN Number": "KQMPS8363G"
+  },
+  {
+    "Name": "PRASANNA BEHERA",
+    "Parent's Name": "BANAMBAR BEHERA",
+    "Date of Birth": "18/09/1993",
+    "PAN Number": "EXDPB1612R"
+  },
+  {
+    "Name": "BHAIRABI DAS",
+    "Parent's Name": "BARENDRANATH MAITI",
+    "Date of Birth": "15/08/1981",
+    "PAN Number": "GCAPD0888R"
+  },
+  {
+    "Name": "SULEKHA KUMARI",
+    "Parent's Name": "JANARDAN CHOUDHARY",
+    "Date of Birth": "06/12/1979",
+    "PAN Number": "BYBPK7947J"
+  },
+  {
+    "Name": "DIPANKAR MANDAL",
+    "Parent's Name": "KARTICK CHANDRA MANDAL",
+    "Date of Birth": "25/12/1979",
+    "PAN Number": "CCBPM4559F"
+  },
+  {
+    "Name": "SOMNATH GURIYA",
+    "Parent's Name": "BIMAL GURIYA",
+    "Date of Birth": "01/08/1985",
+    "PAN Number": "ANSPG1057C"
+  },
+  {
+    "Name": "BIBI CHAMPA",
+    "Parent's Name": "MUTALIB SEKH",
+    "Date of Birth": "15/03/1988",
+    "PAN Number": "BSXPC9188D"
+  },
+  {
+    "Name": "SUBHASH KUMAR",
+    "Parent's Name": "SUSHIL PRASAD SHAH",
+    "Date of Birth": "30/03/1995",
+    "PAN Number": "EREPK6394A"
+  },
+  {
+    "Name": "GEETANJALI",
+    "Parent's Name": "SHATRUGHAN PRASAD",
+    "Date of Birth": "03/02/1996",
+    "PAN Number": "DXCPG1405H"
+  },
+  {
+    "Name": "PROSENJIT BASAK",
+    "Parent's Name": "HARENDRA NATH BASAK",
+    "Date of Birth": "02/11/1988",
+    "PAN Number": "DNMPB9567B"
+  },
+  {
+    "Name": "AMARTYA MAITY",
+    "Parent's Name": "ARABINDA MAITY",
+    "Date of Birth": "02/03/2001",
+    "PAN Number": "FWIPM7257J"
+  },
+  {
+    "Name": "KARAN SONI",
+    "Parent's Name": "ARUN SONI",
+    "Date of Birth": "25/06/1996",
+    "PAN Number": "GALPS6580L"
+  },
+  {
+    "Name": "SRIDHAR SAHOO",
+    "Parent's Name": "NABAGHANA SAHOO",
+    "Date of Birth": "24/05/1997",
+    "PAN Number": "KMAPS3642N"
+  },
+  {
+    "Name": "DAMBARUDHAR PADHU",
+    "Parent's Name": "BHARAT PADHU",
+    "Date of Birth": "28/08/1982",
+    "PAN Number": "DJAPP4896P"
+  },
+  {
+    "Name": "SHANKAR LAL CHOUDHARY",
+    "Parent's Name": "BHAGIRATH CHOUDHARY",
+    "Date of Birth": "05/08/1999",
+    "PAN Number": "CAUPC5581J"
+  },
+  {
+    "Name": "MOHAMMAD SAMEER",
+    "Parent's Name": "SARFU DDEEN",
+    "Date of Birth": "25/01/2001",
+    "PAN Number": "MFZPS6749"
+  },
+  {
+    "Name": "ULHAS BHIKAJI SABNIS",
+    "Parent's Name": "BHIKAJI SABNIS",
+    "Date of Birth": "13/11/1952",
+    "PAN Number": "AAHPS2602R"
+  },
+  {
+    "Name": "ANANDA MANDAL",
+    "Parent's Name": "RADHA NATH MANDAL",
+    "Date of Birth": "01/02/1998",
+    "PAN Number": "DIMPM2667G"
+  },
+  {
+    "Name": "SINDABAD MONDAL",
+    "Parent's Name": "RAHIM MONDAL",
+    "Date of Birth": "01/01/1997",
+    "PAN Number": "EQVPM1588Q"
+  },
+  {
+    "Name": "AJOY MONDAL",
+    "Parent's Name": "MADHUSUDAN MONDAL",
+    "Date of Birth": "01/03/1994",
+    "PAN Number": "CNRPM7109J"
+  },
+  {
+    "Name": "SUBHAJIT SASMAL",
+    "Parent's Name": "JHARESHWAR SASMAL",
+    "Date of Birth": "01/07/1998",
+    "PAN Number": "LECPS0007N"
+  },
+  {
+    "Name": "SUJITH M SHAJI",
+    "Parent's Name": "SHAJI",
+    "Date of Birth": "27/03/1992",
+    "PAN Number": "FSPPS8623M"
+  },
+  {
+    "Name": "AROBINDA BASAK",
+    "Parent's Name": "SHANKAR BASAK",
+    "Date of Birth": "30/08/1994",
+    "PAN Number": "CWBPB9080Q"
+  },
+  {
+    "Name": "RUMPA BASAK",
+    "Parent's Name": "BHARAT CHANDRA BASAK",
+    "Date of Birth": "25/12/1994",
+    "PAN Number": "EDYPB2665F"
+  },
+  {
+    "Name": "DEEPANSHU KAPOOR",
+    "Parent's Name": "ASHOK KAPOOR",
+    "Date of Birth": "10/05/1991",
+    "PAN Number": "BRZPK9888B"
+  },
+  {
+    "Name": "MD AJAM",
+    "Parent's Name": "ISLAM",
+    "Date of Birth": "01/01/1989",
+    "PAN Number": "EMKPM3274E"
+  },
+  {
+    "Name": "KADAM SARJERAO BAJIRAO",
+    "Parent's Name": "BAJIRAO DADARAO KADAM",
+    "Date of Birth": "20/09/1978",
+    "PAN Number": "BQMPK3104Q"
+  },
+  {
+    "Name": "ARABINDA GIRI",
+    "Parent's Name": "ANIRUDDHA GIRI",
+    "Date of Birth": "05/04/1982",
+    "PAN Number": "CHRPA7119Q"
+  },
+  {
+    "Name": "BIKAS DUTTA",
+    "Parent's Name": "BASUDEB DUTTA",
+    "Date of Birth": "01/03/1981",
+    "PAN Number": "AXVPD8977H"
+  },
+  {
+    "Name": "AMIT KUMAR",
+    "Parent's Name": "SURENDRA PRASAD CHOUDHARY",
+    "Date of Birth": "07/01/1997",
+    "PAN Number": "FEBPK1126P"
+  },
+  {
+    "Name": "RBANA ASIF SHAIKH",
+    "Parent's Name": "ASIF SHAIKH",
+    "Date of Birth": "04/11/2001",
+    "PAN Number": "QJBPS2315N"
+  },
+  {
+    "Name": "SONU ROY",
+    "Parent's Name": "PULIN ROY",
+    "Date of Birth": "10/09/1981",
+    "PAN Number": "CKZPR0775A"
+  },
+  {
+    "Name": "MUNSAD MONDAL",
+    "Parent's Name": "ANJUR MONDAL",
+    "Date of Birth": "30/11/1988",
+    "PAN Number": "FVIPM0726B"
+  },
+  {
+    "Name": "JOSEPH ISSAC",
+    "Parent's Name": "ISSAC KURIAKOSE KAIPPALLIL",
+    "Date of Birth": "21/12/1993",
+    "PAN Number": "AEQPI9432J"
+  },
+  {
+    "Name": "RIZWAN AHMAD",
+    "Parent's Name": "ABDUL RAHIM",
+    "Date of Birth": "01/03/1979",
+    "PAN Number": "AQOPA3477F"
+  },
+  {
+    "Name": "UTPAL PATRA",
+    "Parent's Name": "RAMESH PATRA",
+    "Date of Birth": "23/05/2000",
+    "PAN Number": "FEHPP2249E"
+  },
+  {
+    "Name": "KALPANA VINOD BALSARA",
+    "Parent's Name": "AMRITLAL DULABHBHAI KHATRI",
+    "Date of Birth": "27/12/1966",
+    "PAN Number": "AFOPB3080J"
+  },
+  {
+    "Name": "SOUMENDRA BASAK",
+    "Parent's Name": "SIDDESWAR BASAK",
+    "Date of Birth": "20/08/1990",
+    "PAN Number": "DRJPB0864E"
+  },
+  {
+    "Name": "NIRMAL PRADHAN",
+    "Parent's Name": "JAGANNATH PRADHAN",
+    "Date of Birth": "24/05/1999",
+    "PAN Number": "EPDPP1036M"
+  },
+  {
+    "Name": "BISWAJIT BISWAL",
+    "Parent's Name": "SUNIL BISWAL",
+    "Date of Birth": "07/05/2000",
+    "PAN Number": "EKMPB2857Q"
+  },
+  {
+    "Name": "KETKI VIJAY BHAGATWALA",
+    "Parent's Name": "P B TRIVEDI",
+    "Date of Birth": "02/04/1952",
+    "PAN Number": "ACWPB3403C"
+  },
+  {
+    "Name": "JITENDRA JANA",
+    "Parent's Name": "NILKANTHA JANA",
+    "Date of Birth": "18/03/1996",
+    "PAN Number": "BVIPJ2951F"
+  },
+  {
+    "Name": "PARBATI BASAK",
+    "Parent's Name": "ADITTYA BASAK",
+    "Date of Birth": "01/03/1977",
+    "PAN Number": "DFIPB4045G"
+  },
+  {
+    "Name": "NURISLAM MONDAL",
+    "Parent's Name": "TAPIJULA MONDAL",
+    "Date of Birth": "01/01/1987",
+    "PAN Number": "DQSPM6152A"
+  },
+  {
+    "Name": "VARDA PENDSE",
+    "Parent's Name": "MORESHWAR VISHWANATH MAUSKAR",
+    "Date of Birth": "23/11/1964",
+    "PAN Number": "AAHPM1349M"
+  },
+  {
+    "Name": "BALAJI SHIVAJI MEHETRE",
+    "Parent's Name": "SHIVAJI MEHETRE",
+    "Date of Birth": "06/01/1990",
+    "PAN Number": "CKXPM8309P"
+  },
+  {
+    "Name": "TABBASUM NAZIR SHAIKH",
+    "Parent's Name": "BABUMIYA SHAIKH",
+    "Date of Birth": "13/12/1988",
+    "PAN Number": "GTNPS7667P"
+  },
+  {
+    "Name": "AJAY GORAKSHA BADE",
+    "Parent's Name": "GORAKSHA BADE",
+    "Date of Birth": "11/07/2004",
+    "PAN Number": "GSDPB8663K"
+  },
+  {
+    "Name": "UPASANA MISHRA",
+    "Parent's Name": "HARIOM MISHRA",
+    "Date of Birth": "16/10/1993",
+    "PAN Number": "ANPPU1991E"
+  },
+  {
+    "Name": "GOUTAM NAGPAL",
+    "Parent's Name": "TILAK RAJ NAGPAL",
+    "Date of Birth": "25/03/1976",
+    "PAN Number": "AAGPN0904L"
+  },
+  {
+    "Name": "SHRADDHA ASHOK JOSHI",
+    "Parent's Name": "ASHOK BALKRUSHNA JOSHI",
+    "Date of Birth": "19/06/1995",
+    "PAN Number": "AXXPJ3583F"
+  },
+  {
+    "Name": "HARI BATHINENI",
+    "Parent's Name": "BATHINENI SHANKARNARAYANA",
+    "Date of Birth": "01/06/1988",
+    "PAN Number": "ANTPH6149M"
+  },
+  {
+    "Name": "AMIT SAU",
+    "Parent's Name": "HARIPADA SAU",
+    "Date of Birth": "04/04/1998",
+    "PAN Number": "LYUPS9473E"
+  },
+  {
+    "Name": "ROHAN MISHRA",
+    "Parent's Name": "LALAN MISHRA",
+    "Date of Birth": "12/12/1996",
+    "PAN Number": "DXQPM0237M"
+  },
+  {
+    "Name": "AHAMMED SEKH",
+    "Parent's Name": "MAHAMMAD RAHAMAN SEKH",
+    "Date of Birth": "07/02/1980",
+    "PAN Number": "ETRPS8962K"
+  },
+  {
+    "Name": "SUKHWINDER SINGH",
+    "Parent's Name": "SURINDER SINGH",
+    "Date of Birth": "18/11/1986",
+    "PAN Number": "GBSPS8585A"
+  },
+  {
+    "Name": "RENU MAURYA",
+    "Parent's Name": "RAJENDRA PRASAD MAURYA",
+    "Date of Birth": "16/03/1994",
+    "PAN Number": "CSZPM2505F"
+  },
+  {
+    "Name": "AMBARAYA",
+    "Parent's Name": "MALLESHAPPA PAGADI",
+    "Date of Birth": "01/01/1980",
+    "PAN Number": "BXYPA6286N"
+  },
+  {
+    "Name": "KHOKAN ADAK",
+    "Parent's Name": "KANAI ADAK",
+    "Date of Birth": "02/10/1999",
+    "PAN Number": "DEYPA3920Q"
+  },
+  {
+    "Name": "PRAMM SINGH JIT SINGH BATRA",
+    "Parent's Name": "JIT SINGH JIVAN SINGH BATRA",
+    "Date of Birth": "10/01/1966",
+    "PAN Number": "AEZPB1879F"
+  },
+  {
+    "Name": "JAMMALAMADAKA VENKATA SUBRAHMANYAM",
+    "Parent's Name": "SOMASUNDARA RAO JAMMALAMADAKA",
+    "Date of Birth": "17/01/1957",
+    "PAN Number": "AFXPJ1120N"
+  },
+  {
+    "Name": "VIKAS MISHRA",
+    "Parent's Name": "RAJNARAYAN MISHRA",
+    "Date of Birth": "01/07/1983",
+    "PAN Number": "EIVPM1176G"
+  },
+  {
+    "Name": "M K DIXON",
+    "Parent's Name": "KOCHAPPEN POULOSE MALIAKKAL",
+    "Date of Birth": "28/09/1966",
+    "PAN Number": "AKUPD2216K"
+  },
+  {
+    "Name": "SUBHASH BASAK",
+    "Parent's Name": "SUNIL BASAK",
+    "Date of Birth": "01/01/1984",
+    "PAN Number": "DLMPB7513K"
+  },
+  {
+    "Name": "NEENA CHRISTY NINAN",
+    "Parent's Name": "NINAN VARGHESE",
+    "Date of Birth": "20/04/1992",
+    "PAN Number": "ASIPN9967D"
+  },
+  {
+    "Name": "SOFIKUL SK",
+    "Parent's Name": "MOHIDUL SK",
+    "Date of Birth": "16/07/1999",
+    "PAN Number": "LWNPS5004C"
+  },
+  {
+    "Name": "AJAY KUMAR SONI",
+    "Parent's Name": "ISHWARI SAW",
+    "Date of Birth": "15/05/1990",
+    "PAN Number": "EEGPS3182M"
+  },
+  {
+    "Name": "RAVI SHANKAR",
+    "Parent's Name": "MANOJ KUMAR PANDEY",
+    "Date of Birth": "17/06/1994",
+    "PAN Number": "GDFPS8474C"
+  },
+  {
+    "Name": "ANJU KUSHWAH",
+    "Parent's Name": "SURATRAM",
+    "Date of Birth": "31/03/1992",
+    "PAN Number": "ELCPK1805C"
+  },
+  {
+    "Name": "LAKSHMIPATHY",
+    "Parent's Name": "GURUNATHAN",
+    "Date of Birth": "02/02/1993",
+    "PAN Number": "AHEPL7388M"
+  },
+  {
+    "Name": "KIRAN SANTRAM SALMOTE",
+    "Parent's Name": "SANTRAM SALMOTE",
+    "Date of Birth": "09/06/1994",
+    "PAN Number": "RMJPS6839B"
+  },
+  {
+    "Name": "KUNAL N WALAVALKAR",
+    "Parent's Name": "NISHIKANT WALAVALKAR",
+    "Date of Birth": "26/10/1976",
+    "PAN Number": "ABIPW1908N"
+  },
+  {
+    "Name": "UMAKANTA JANA",
+    "Parent's Name": "DEBENDRA JANA",
+    "Date of Birth": "07/07/1969",
+    "PAN Number": "AKBPJ7204L"
+  },
+  {
+    "Name": "SAGAR SITARAM SHINDE",
+    "Parent's Name": "SITARAM SHIVRAM SHINDE",
+    "Date of Birth": "26/02/1988",
+    "PAN Number": "BPAPS0001P"
+  },
+  {
+    "Name": "CHIRAG JAYESH MAKWANA",
+    "Parent's Name": "JAYESH MAGANLAL MAKWANA",
+    "Date of Birth": "20/05/1987",
+    "PAN Number": "AZPPM4239H"
+  },
+  {
+    "Name": "SEETHA SANDHYA",
+    "Parent's Name": "VENKATESWARLU KODI",
+    "Date of Birth": "13/04/1988",
+    "PAN Number": "HMUPS6670H"
+  },
+  {
+    "Name": "SUNIL BASAK",
+    "Parent's Name": "RAKHAL BASAK",
+    "Date of Birth": "05/07/1963",
+    "PAN Number": "BMDPB1170Q"
+  },
+  {
+    "Name": "SURYAKANTA BASAK",
+    "Parent's Name": "DEBENDRANATH BASAK",
+    "Date of Birth": "04/06/1989",
+    "PAN Number": "DZBPB0067H"
+  },
+  {
+    "Name": "MD KHAIRUL ISLAM",
+    "Parent's Name": "ABUBAKAR SIDDIK",
+    "Date of Birth": "01/03/1985",
+    "PAN Number": "ADNPI6471M"
+  },
+  {
+    "Name": "ABINAS MOHANTY",
+    "Parent's Name": "ABHIMANYU MOHANTY",
+    "Date of Birth": "05/08/2000",
+    "PAN Number": "FWXPM9799A"
+  },
+  {
+    "Name": "ANIL KUMAR NAIK",
+    "Parent's Name": "MAHENDRA KUMAR NAIK",
+    "Date of Birth": "21/11/1984",
+    "PAN Number": "AHKPN5996R"
+  },
+  {
+    "Name": "NIDHI SHEKHAWAT",
+    "Parent's Name": "RAJENDER SINGH SHEKHAWAT",
+    "Date of Birth": "22/01/1983",
+    "PAN Number": "AURPS9446H"
+  },
+  {
+    "Name": "AJAY SURESH KHAIRE",
+    "Parent's Name": "SURESH KHAIRE",
+    "Date of Birth": "31/12/1985",
+    "PAN Number": "AMDPK2816K"
+  },
+  {
+    "Name": "SOUMYA RANJAN BEHERA",
+    "Parent's Name": "KRUPASINDHU BEHERA",
+    "Date of Birth": "05/06/1999",
+    "PAN Number": "EWUPB0213G"
+  },
+  {
+    "Name": "CHERYL CONSTANCE DMELLO",
+    "Parent's Name": "CONSTANCE DMELLO",
+    "Date of Birth": "26/03/1996",
+    "PAN Number": "CIWPD1184J"
+  },
+  {
+    "Name": "RAGHAVENDRA NAYAK",
+    "Parent's Name": "SURESH NAYAK",
+    "Date of Birth": "23/01/1985",
+    "PAN Number": "AJUPR9485R"
+  },
+  {
+    "Name": "CHANDRASHEKHAR S BOBADE",
+    "Parent's Name": "SUKHADEORAO AMRUTRAO BOBADE",
+    "Date of Birth": "24/04/1963",
+    "PAN Number": "AADPB5614Q"
+  },
+  {
+    "Name": "UTKARSH SHARMA",
+    "Parent's Name": "PRADEEPKUMAR SHARMA",
+    "Date of Birth": "08/05/1991",
+    "PAN Number": "FXMPS6507Q"
+  },
+  {
+    "Name": "PARMILA KUMARI",
+    "Parent's Name": "RAJ BIHARI PATRO",
+    "Date of Birth": "29/06/1981",
+    "PAN Number": "EMGPK7717E"
+  },
+  {
+    "Name": "SAMEER MISHRA",
+    "Parent's Name": "GULAB MISHRA",
+    "Date of Birth": "08/12/1993",
+    "PAN Number": "CVPPM7306H"
+  },
+  {
+    "Name": "SUDDHADHAN MANDAL",
+    "Parent's Name": "AMARNATH MANDAL",
+    "Date of Birth": "20/07/1985",
+    "PAN Number": "BPCPM7796H"
+  },
+  {
+    "Name": "GUDIPUDI NARENDRA",
+    "Parent's Name": "VENKATESWARA RAO GUDIPUDI",
+    "Date of Birth": "06/06/1985",
+    "PAN Number": "BIWPG0509D"
+  },
+  {
+    "Name": "DEBU SHIT",
+    "Parent's Name": "ANIL SHIT",
+    "Date of Birth": "02/04/1994",
+    "PAN Number": "EYJPS5997H"
+  },
+  {
+    "Name": "SHAMBHURAJE YASHWANTRAO PATIL",
+    "Parent's Name": "YASHWANTRAO PATIL",
+    "Date of Birth": "09/09/1996",
+    "PAN Number": "EOJPK9460M"
+  },
+  {
+    "Name": "VINOD KUMAR KEWAT",
+    "Parent's Name": "VISHWANATH KEWAT",
+    "Date of Birth": "13/06/1971",
+    "PAN Number": "ANIPK9405G"
+  },
+  {
+    "Name": "TAPAS KUMAR MAITY",
+    "Parent's Name": "HIMANGSHU MAITY",
+    "Date of Birth": "05/08/1970",
+    "PAN Number": "CHJPM2648Q"
+  },
+  {
+    "Name": "HRITTIK BASAK",
+    "Parent's Name": "DOLAN BASAK",
+    "Date of Birth": "18/06/2000",
+    "PAN Number": "EHWPB6522H"
+  },
+  {
+    "Name": "AKSHAY JANA",
+    "Parent's Name": "AJIT JANA",
+    "Date of Birth": "18/09/1992",
+    "PAN Number": "AVQPJ1395N"
+  },
+  {
+    "Name": "CHETAN KUMAR",
+    "Parent's Name": "BHUNESHWAR PRASAD",
+    "Date of Birth": "15/10/1994",
+    "PAN Number": "CVMPK1047E"
+  },
+  {
+    "Name": "P RAKESH SHARMA",
+    "Parent's Name": "PERUMAL",
+    "Date of Birth": "24/01/1992",
+    "PAN Number": "BVYPR6433A"
+  },
+  {
+    "Name": "AMBAR RAJ",
+    "Parent's Name": "KRISHNA KUMAR",
+    "Date of Birth": "10/05/2005",
+    "PAN Number": "GSNPR7512F"
+  }
+]
