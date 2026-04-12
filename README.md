@@ -1,160 +1,284 @@
-## 📌 Overview
+# 🔐 AI-Powered KYC Verification System
 
-This system verifies identity documents such as:
+> **Full-stack identity verification platform for the BFSI sector** — classifies documents, extracts fields via OCR, and detects fraud using Graph Neural Networks. Deployed on AWS (S3 + EC2) with a React frontend, Node.js backend, and a Python-based ML microservice.
 
-- 🪪 Aadhaar Card  
-- 🪪 PAN Card  
-- 🛂 Passport  
-- 📄 Non-KYC Documents (rejected)
+<br/>
 
-It performs:
+## 📋 Table of Contents
 
-1. Document Type Detection (ML model)
-2. OCR Text Extraction (EasyOCR)
-3. Data Parsing & Structuring
-4. Fraud Detection using Graph Neural Networks (GNN)
-5. Final Verification Decision (Approved / Suspicious / Rejected)
+* [Overview](#overview)
+* [Architecture](#architecture)
+* [Tech Stack](#tech-stack)
+* [ML Pipeline](#ml-pipeline)
+* [Project Structure](#project-structure)
+* [Getting Started](#getting-started)
+* [Environment Variables](#environment-variables)
+* [Deployment](#deployment)
+* [API Reference](#api-reference)
+* [Key Engineering Decisions](#key-engineering-decisions)
+* [Known Limitations](#known-limitations)
+* [Team](#team)
 
----
-
-## 🏗️ System Architecture
-
-
-User → Frontend (React) → Backend (Node.js)
-→ ML Service (Flask)
-→ Database (MongoDB Atlas)
-→ Response → UI
-
+<br/>
 
 ---
 
-## ⚙️ Tech Stack
+## Overview
 
-### Frontend
-- React (Vite)
-- Axios
-- Tailwind CSS
+This system automates KYC (Know Your Customer) document verification — a process traditionally handled manually in BFSI institutions. A user uploads an identity document and receives a verification decision backed by ML inference.
 
-### Backend
-- Node.js (Express)
-- MongoDB (Atlas)
-- JWT Authentication
+**Supported documents:** Aadhaar Card · PAN Card · Passport
+
+**End-to-end flow:**
+
+1. Document classification using a TFLite CNN model
+2. OCR extraction using EasyOCR
+3. Structured parsing via Groq LLM API
+4. Fraud detection using Graph Neural Networks (GNN)
+5. Verdict generation — **Approved**, **Suspicious**, or **Non-KYC**
+6. Result persistence in MongoDB Atlas
+7. Visualization via a React dashboard
+
+---
+
+## Architecture
+
+```
+[Browser] → [Frontend (S3)] → [Backend API (EC2)] → [ML Service (EC2)] → [MongoDB Atlas]
+```
+
+| Layer       | Service           | Hosted On             |
+| ----------- | ----------------- | --------------------- |
+| Frontend    | React (Vite)      | AWS S3 Static Hosting |
+| Backend API | Node.js + Express | AWS EC2               |
+| ML Service  | Python Flask      | AWS EC2               |
+| Database    | MongoDB Atlas     | Managed Cloud         |
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+* React (Vite)
+* React Router
+
+**Backend**
+
+* Node.js + Express
+* JWT Authentication
+* Multer (file handling)
+* MongoDB + Mongoose
+
+**ML Microservice**
+
+* Python + Flask
+* TFLite (document classification)
+* PyTorch + PyTorch Geometric (GNN)
+* EasyOCR
+* Sentence Transformers
+* Groq API (LLM parsing)
+
+**Infrastructure**
+
+* AWS EC2 (compute)
+* AWS S3 (frontend hosting)
+* PM2 (process management)
+* MongoDB Atlas
+
+---
+
+## ML Pipeline
+
+Each document flows through five stages:
+
+### 1. Document Classification
+
+TFLite CNN classifies input into supported document types or Non-KYC.
+
+---
+
+### 2. OCR Extraction
+
+EasyOCR extracts raw text for all inputs, enabling fallback handling.
+
+---
+
+### 3. Structured Parsing
+
+Groq LLM converts raw OCR output into structured JSON fields.
+
+---
+
+### 4. Anomaly Detection
+
+GNN models compare extracted data against known records to compute anomaly scores.
+
+* Score > 2.0 → Suspicious
+* Score ≤ 2.0 → Approved
+* Non-KYC → Skipped
+
+---
+
+### 5. Response Generation
+
+System returns a structured JSON response with classification, extracted data, and fraud status.
+
+---
+
+## Project Structure
+
+```
+project-root/
+├── frontend/
+├── backend/
+├── ml-service/
+└── trained_models/
+```
+
+> Pre-trained model artifacts are not included in the repository and must be provided separately for execution.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+* Node.js v18+
+* Python 3.12
+* MongoDB Atlas
+* Groq API Key
+* AWS account (for deployment)
+
+---
+
+### Local Setup
+
+Run services in sequence:
+
+1. ML Service
+2. Backend
+3. Frontend
+
+Each component is independently runnable and communicates via defined APIs.
+
+---
+
+## Environment Variables
+
+Separate `.env` files are required for each service.
+
+**Backend**
+
+* Database URI
+* JWT secret
+* ML service endpoint
+
+**Frontend**
+
+* Backend API base URL
+
+**ML Service**
+
+* Groq API key
+
+---
+
+## Deployment
+
+This system was deployed using:
+
+* **Two EC2 instances**
+
+  * Backend service
+  * ML microservice
+* **S3 static hosting** for frontend
+
+A complete, step-by-step deployment guide is included in this repository, covering:
+
+* Infrastructure setup
+* Service configuration
+* Environment management
+* Process orchestration using PM2
+
+> The infrastructure was provisioned, validated, and used during the internship demonstration.
+> Resources were decommissioned after the final presentation to optimize cost usage.
+> The repository includes all necessary instructions to reproduce the deployment environment.
+
+---
+
+## API Reference
+
+### Auth
+
+* `POST /api/auth/register`
+* `POST /api/auth/login`
+
+### KYC
+
+* `POST /api/kyc/verify`
+* `GET /api/kyc/history`
+* `GET /api/kyc/verifications`
 
 ### ML Service
-- Python (Flask)
-- EasyOCR
-- TensorFlow / PyTorch
-- Graph Neural Networks (GNN)
 
-### Deployment
-- AWS EC2 (Backend + ML Service)
-- AWS S3 (Frontend Hosting)
-- PM2 (Process Management)
+* `GET /api/ml/health`
+* `POST /api/ml/classify`
 
 ---
 
-## 🔥 Key Features
+## Key Engineering Decisions
 
-- ✅ Multi-document classification (Aadhaar, PAN, Passport)
-- ✅ OCR-based data extraction
-- ✅ GNN-based fraud detection using similarity graphs
-- ✅ Real-time verification dashboard
-- ✅ Manual review system (Approve / Reject / Suspicious)
-- ✅ Fault-tolerant backend with safe fallbacks
-- ✅ Cloud deployment on AWS
+### EC2 over Serverless
+
+* Avoids memory constraints of Lambda
+* Eliminates cold-start overhead
+* Allows full control over ML dependencies
 
 ---
 
-## 🧠 ML Pipeline
+### Separate Backend & ML Services
 
-1. Image Upload  
-2. Document Classification  
-3. OCR Extraction  
-4. Data Preprocessing  
-5. Feature Vector Creation  
-6. Graph Construction  
-7. GNN Anomaly Detection  
-8. Final Decision  
+* Isolates heavy ML workloads
+* Improves reliability and scalability
+* Enables independent upgrades
 
 ---
 
-## 📊 Sample Output
+### Heuristic Fallback Layer
 
-- Document Type: PAN Card  
-- Extracted Fields: Name, DOB, PAN Number  
-- Anomaly Score: 2.08  
-- Status: Suspicious  
+OCR-based fallback improves robustness against model misclassification without requiring retraining.
 
 ---
 
-## 🚀 Setup Instructions
+## Known Limitations
 
-### 1. Clone Repo
-```bash
-git clone https://github.com/SannidhiSriram-06/Sriram_Infosys_Internship.git
-cd Sriram_Infosys_Internship
-2. Backend Setup
-cd backend
-npm install
-npm start
-3. ML Service Setup
-cd ml-service
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python app.py
-4. Frontend Setup
-cd frontend
-npm install
-npm run dev
-☁️ Deployment
-Frontend → AWS S3 Static Hosting
-Backend → EC2 (Node.js + PM2)
-ML Service → EC2 (Flask + PM2)
-Database → MongoDB Atlas
-📌 API Endpoints
-Backend
-POST /api/auth/login
-POST /api/kyc/verify
-GET /api/kyc/verifications
-GET /api/kyc/verifications/stats
-ML Service
-POST /api/ml/classify
-🛡️ Fraud Detection Logic
-Graph-based similarity between documents
-Node = Document
-Edge = Feature similarity
-High anomaly score → Suspicious
-👨‍💻 Contributors
-Sriram Sannidhi — Deployment, Backend, Integration
-Team Members — ML Models, Dataset, Research
-📈 Future Improvements
-Face Matching Integration
-Real-time KYC APIs
-More document types
-Better OCR accuracy with custom models
-🧾 License
-
-This project is for academic and demonstration purposes.
-
-🙌 Acknowledgements
-Roboflow (Dataset)
-EasyOCR
-MongoDB Atlas
-AWS
-
-⭐ If you found this useful, give it a star!
-
+* CPU-only inference (no GPU acceleration)
+* OCR accuracy degrades on low-quality images
+* No automated file cleanup for uploads
+* Single-region deployment
 
 ---
 
-# ⚡ WHAT YOU DO NOW
+## 👥 Contributors
 
-```bash
-touch README.md
+Infosys Springboard — BFSI Sector Cloud Architecture Cohort
 
-Paste → Save → then:
+---
 
-git add README.md
-git commit -m "Added README"
-git push
+## 🏁 Outcome
+
+A production-style KYC verification system integrating:
+
+* Multi-stage ML inference
+* Microservice-based architecture
+* Cloud deployment on AWS
+* Real-time fraud detection
+
+This project demonstrates practical implementation of **scalable, AI-driven verification systems in a cloud environment**.
+
+---
+
+<div align="center">
+  <sub>Built with Node.js · Flask · PyTorch · AWS · MongoDB Atlas</sub>
+</div>
